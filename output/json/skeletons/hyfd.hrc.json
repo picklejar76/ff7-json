@@ -1,0 +1,178 @@
+{
+  "name" : "jenova_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "chest",
+    "length" : 21.972992,
+    "rsdBaseFilenames" : [ "HYFE", "HYGA", "HYGC", "HYGE", "HYHA", "HYHC", "HYHE" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "head",
+    "length" : 3.060501,
+    "rsdBaseFilenames" : [ "HYIA" ],
+    "parentBoneName" : "chest"
+  }, {
+    "boneIndex" : 2,
+    "name" : "t_target",
+    "length" : 4.8533936,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "head"
+  }, {
+    "boneIndex" : 3,
+    "name" : "l_collar",
+    "length" : 12.191785,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 4,
+    "name" : "l_uparm1",
+    "length" : 23.596504,
+    "rsdBaseFilenames" : [ "HYIC" ],
+    "parentBoneName" : "l_collar"
+  }, {
+    "boneIndex" : 5,
+    "name" : "l_uparm2",
+    "length" : 21.652864,
+    "rsdBaseFilenames" : [ "HYIE" ],
+    "parentBoneName" : "l_uparm1"
+  }, {
+    "boneIndex" : 6,
+    "name" : "l_uparm3",
+    "length" : 18.701202,
+    "rsdBaseFilenames" : [ "HYJA" ],
+    "parentBoneName" : "l_uparm2"
+  }, {
+    "boneIndex" : 7,
+    "name" : "l_foarm1",
+    "length" : 15.522289,
+    "rsdBaseFilenames" : [ "HYJC" ],
+    "parentBoneName" : "l_uparm3"
+  }, {
+    "boneIndex" : 8,
+    "name" : "l_foarm2",
+    "length" : 14.634033,
+    "rsdBaseFilenames" : [ "HYJE" ],
+    "parentBoneName" : "l_foarm1"
+  }, {
+    "boneIndex" : 9,
+    "name" : "l_hand1",
+    "length" : 13.580032,
+    "rsdBaseFilenames" : [ "HZAA" ],
+    "parentBoneName" : "l_foarm2"
+  }, {
+    "boneIndex" : 10,
+    "name" : "l_hand2",
+    "length" : 15.004978,
+    "rsdBaseFilenames" : [ "HZAC" ],
+    "parentBoneName" : "l_hand1"
+  }, {
+    "boneIndex" : 11,
+    "name" : "l_fing",
+    "length" : 13.894919,
+    "rsdBaseFilenames" : [ "HZAE" ],
+    "parentBoneName" : "l_hand2"
+  }, {
+    "boneIndex" : 12,
+    "name" : "n_coll1",
+    "length" : 43.518112,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 13,
+    "name" : "l_liver2",
+    "length" : 21.064035,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "n_coll1"
+  }, {
+    "boneIndex" : 14,
+    "name" : "l_liver",
+    "length" : 19.070435,
+    "rsdBaseFilenames" : [ "HZBA" ],
+    "parentBoneName" : "l_liver2"
+  }, {
+    "boneIndex" : 15,
+    "name" : "l_target",
+    "length" : 5.9534454,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "l_liver"
+  }, {
+    "boneIndex" : 16,
+    "name" : "n_coll2",
+    "length" : 43.518112,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 17,
+    "name" : "r_liver2",
+    "length" : 21.064035,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "n_coll2"
+  }, {
+    "boneIndex" : 18,
+    "name" : "r_liver",
+    "length" : 19.070435,
+    "rsdBaseFilenames" : [ "HZBC" ],
+    "parentBoneName" : "r_liver2"
+  }, {
+    "boneIndex" : 19,
+    "name" : "r_target",
+    "length" : 5.9534454,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "r_liver"
+  }, {
+    "boneIndex" : 20,
+    "name" : "r_collar",
+    "length" : 12.191785,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 21,
+    "name" : "r_uparm1",
+    "length" : 23.596504,
+    "rsdBaseFilenames" : [ "HZBE" ],
+    "parentBoneName" : "r_collar"
+  }, {
+    "boneIndex" : 22,
+    "name" : "r_uparm2",
+    "length" : 21.652864,
+    "rsdBaseFilenames" : [ "HZCA" ],
+    "parentBoneName" : "r_uparm1"
+  }, {
+    "boneIndex" : 23,
+    "name" : "r_uparm3",
+    "length" : 18.701202,
+    "rsdBaseFilenames" : [ "HZCC" ],
+    "parentBoneName" : "r_uparm2"
+  }, {
+    "boneIndex" : 24,
+    "name" : "r_foarm1",
+    "length" : 15.522289,
+    "rsdBaseFilenames" : [ "HZCE" ],
+    "parentBoneName" : "r_uparm3"
+  }, {
+    "boneIndex" : 25,
+    "name" : "r_foarm2",
+    "length" : 14.634033,
+    "rsdBaseFilenames" : [ "HZDA" ],
+    "parentBoneName" : "r_foarm1"
+  }, {
+    "boneIndex" : 26,
+    "name" : "r_hand1",
+    "length" : 13.580032,
+    "rsdBaseFilenames" : [ "HZDC" ],
+    "parentBoneName" : "r_foarm2"
+  }, {
+    "boneIndex" : 27,
+    "name" : "r_hand2",
+    "length" : 15.004978,
+    "rsdBaseFilenames" : [ "HZDE" ],
+    "parentBoneName" : "r_hand1"
+  }, {
+    "boneIndex" : 28,
+    "name" : "r_fing",
+    "length" : 13.894919,
+    "rsdBaseFilenames" : [ "HZEA" ],
+    "parentBoneName" : "r_hand2"
+  } ]
+}

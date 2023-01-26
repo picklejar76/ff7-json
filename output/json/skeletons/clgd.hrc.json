@@ -1,0 +1,142 @@
+{
+  "name" : "cloudup_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "hip",
+    "length" : 1.5617981,
+    "rsdBaseFilenames" : [ "CLGE" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "chest",
+    "length" : 6.537364,
+    "rsdBaseFilenames" : [ "CLHA" ],
+    "parentBoneName" : "hip"
+  }, {
+    "boneIndex" : 2,
+    "name" : "head",
+    "length" : 5.841418,
+    "rsdBaseFilenames" : [ "CLHC", "CLHE" ],
+    "parentBoneName" : "chest"
+  }, {
+    "boneIndex" : 3,
+    "name" : "l_chest",
+    "length" : 5.6482143,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "hip"
+  }, {
+    "boneIndex" : 4,
+    "name" : "l_collar",
+    "length" : 2.3888946,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "l_chest"
+  }, {
+    "boneIndex" : 5,
+    "name" : "l_uparm",
+    "length" : 5.320362,
+    "rsdBaseFilenames" : [ "CLIC" ],
+    "parentBoneName" : "l_collar"
+  }, {
+    "boneIndex" : 6,
+    "name" : "l_foarm",
+    "length" : 4.69833,
+    "rsdBaseFilenames" : [ "CLIE" ],
+    "parentBoneName" : "l_uparm"
+  }, {
+    "boneIndex" : 7,
+    "name" : "l_hand",
+    "length" : 3.411476,
+    "rsdBaseFilenames" : [ "CLJA" ],
+    "parentBoneName" : "l_foarm"
+  }, {
+    "boneIndex" : 8,
+    "name" : "r_chest",
+    "length" : 5.6482143,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "hip"
+  }, {
+    "boneIndex" : 9,
+    "name" : "r_collar",
+    "length" : 2.3888946,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "r_chest"
+  }, {
+    "boneIndex" : 10,
+    "name" : "r_uparm",
+    "length" : 5.320362,
+    "rsdBaseFilenames" : [ "CLJC" ],
+    "parentBoneName" : "r_collar"
+  }, {
+    "boneIndex" : 11,
+    "name" : "r_foarm",
+    "length" : 4.69833,
+    "rsdBaseFilenames" : [ "CLJE" ],
+    "parentBoneName" : "r_uparm"
+  }, {
+    "boneIndex" : 12,
+    "name" : "r_hand",
+    "length" : 3.411476,
+    "rsdBaseFilenames" : [ "CMAA" ],
+    "parentBoneName" : "r_foarm"
+  }, {
+    "boneIndex" : 13,
+    "name" : "l_hip",
+    "length" : 1.4973702,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 14,
+    "name" : "l_femur",
+    "length" : 11.103575,
+    "rsdBaseFilenames" : [ "CMAC" ],
+    "parentBoneName" : "l_hip"
+  }, {
+    "boneIndex" : 15,
+    "name" : "l_tibia",
+    "length" : 10.121129,
+    "rsdBaseFilenames" : [ "CMAE" ],
+    "parentBoneName" : "l_femur"
+  }, {
+    "boneIndex" : 16,
+    "name" : "l_foot",
+    "length" : 3.1046724,
+    "rsdBaseFilenames" : [ "CMBA" ],
+    "parentBoneName" : "l_tibia"
+  }, {
+    "boneIndex" : 17,
+    "name" : "l_toes",
+    "length" : 4.8748355,
+    "rsdBaseFilenames" : [ "CMBC" ],
+    "parentBoneName" : "l_foot"
+  }, {
+    "boneIndex" : 18,
+    "name" : "r_hip",
+    "length" : 1.4973702,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 19,
+    "name" : "r_femur",
+    "length" : 11.103575,
+    "rsdBaseFilenames" : [ "CMBE" ],
+    "parentBoneName" : "r_hip"
+  }, {
+    "boneIndex" : 20,
+    "name" : "r_tibia",
+    "length" : 10.121129,
+    "rsdBaseFilenames" : [ "CMCA" ],
+    "parentBoneName" : "r_femur"
+  }, {
+    "boneIndex" : 21,
+    "name" : "r_foot",
+    "length" : 3.1046724,
+    "rsdBaseFilenames" : [ "CMCC" ],
+    "parentBoneName" : "r_tibia"
+  }, {
+    "boneIndex" : 22,
+    "name" : "r_toes",
+    "length" : 4.8748355,
+    "rsdBaseFilenames" : [ "CMCE" ],
+    "parentBoneName" : "r_foot"
+  } ]
+}

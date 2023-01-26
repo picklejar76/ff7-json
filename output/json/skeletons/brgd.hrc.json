@@ -1,0 +1,82 @@
+{
+  "name" : "c_bike_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "bike",
+    "length" : 43.899666,
+    "rsdBaseFilenames" : [ "BRGE" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "bh",
+    "length" : 33.95081,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "bike"
+  }, {
+    "boneIndex" : 2,
+    "name" : "handle",
+    "length" : 9.607095,
+    "rsdBaseFilenames" : [ "BRHA" ],
+    "parentBoneName" : "bh"
+  }, {
+    "boneIndex" : 3,
+    "name" : "hfh",
+    "length" : 19.274332,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "handle"
+  }, {
+    "boneIndex" : 4,
+    "name" : "hff",
+    "length" : 20.0421,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "hfh"
+  }, {
+    "boneIndex" : 5,
+    "name" : "front",
+    "length" : 7.3434224,
+    "rsdBaseFilenames" : [ "BRHC" ],
+    "parentBoneName" : "hff"
+  }, {
+    "boneIndex" : 6,
+    "name" : "hlh",
+    "length" : 84.31117,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "bh"
+  }, {
+    "boneIndex" : 7,
+    "name" : "hll",
+    "length" : 77.75251,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "hlh"
+  }, {
+    "boneIndex" : 8,
+    "name" : "light_g",
+    "length" : 74.239,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "hll"
+  }, {
+    "boneIndex" : 9,
+    "name" : "bb",
+    "length" : 3.9335675,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 10,
+    "name" : "brb",
+    "length" : 8.551513,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "bb"
+  }, {
+    "boneIndex" : 11,
+    "name" : "brr",
+    "length" : 8.906302,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "brb"
+  }, {
+    "boneIndex" : 12,
+    "name" : "rear",
+    "length" : 7.3434224,
+    "rsdBaseFilenames" : [ "BRHE" ],
+    "parentBoneName" : "brr"
+  } ]
+}

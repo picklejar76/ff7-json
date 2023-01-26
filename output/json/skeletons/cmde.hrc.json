@@ -1,0 +1,130 @@
+{
+  "name" : "highrez_st",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "chest",
+    "length" : 4.891202,
+    "rsdBaseFilenames" : [ "CMDF" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "head",
+    "length" : 3.954464,
+    "rsdBaseFilenames" : [ "CMEB", "CMEF" ],
+    "parentBoneName" : "chest"
+  }, {
+    "boneIndex" : 2,
+    "name" : "non4",
+    "length" : 2.305415,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "head"
+  }, {
+    "boneIndex" : 3,
+    "name" : "himo",
+    "length" : 2.5230544,
+    "rsdBaseFilenames" : [ "CMFB" ],
+    "parentBoneName" : "non4"
+  }, {
+    "boneIndex" : 4,
+    "name" : "non5",
+    "length" : 2.660674,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "head"
+  }, {
+    "boneIndex" : 5,
+    "name" : "pony1",
+    "length" : 2.7834108,
+    "rsdBaseFilenames" : [ "CMFD" ],
+    "parentBoneName" : "non5"
+  }, {
+    "boneIndex" : 6,
+    "name" : "pony2",
+    "length" : 1.9532508,
+    "rsdBaseFilenames" : [ "CMFF" ],
+    "parentBoneName" : "pony1"
+  }, {
+    "boneIndex" : 7,
+    "name" : "pony3",
+    "length" : 2.71206,
+    "rsdBaseFilenames" : [ "CMGB" ],
+    "parentBoneName" : "pony2"
+  }, {
+    "boneIndex" : 8,
+    "name" : "non6",
+    "length" : 2.9069126,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "head"
+  }, {
+    "boneIndex" : 9,
+    "name" : "kami1",
+    "length" : 1.9273212,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "non6"
+  }, {
+    "boneIndex" : 10,
+    "name" : "kami2",
+    "length" : 1.6094338,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "kami1"
+  }, {
+    "boneIndex" : 11,
+    "name" : "non7",
+    "length" : 3.1490474,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "head"
+  }, {
+    "boneIndex" : 12,
+    "name" : "kami_m1",
+    "length" : 3.235232,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "non7"
+  }, {
+    "boneIndex" : 13,
+    "name" : "kami_m2",
+    "length" : 2.919195,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "kami_m1"
+  }, {
+    "boneIndex" : 14,
+    "name" : "non1",
+    "length" : 24.316645,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 15,
+    "name" : "non2",
+    "length" : 4.448135,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 16,
+    "name" : "l_collar",
+    "length" : 2.0148325,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "non2"
+  }, {
+    "boneIndex" : 17,
+    "name" : "l_uparm",
+    "length" : 5.673744,
+    "rsdBaseFilenames" : [ "CMGD" ],
+    "parentBoneName" : "l_collar"
+  }, {
+    "boneIndex" : 18,
+    "name" : "non3",
+    "length" : 4.448135,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 19,
+    "name" : "r_collar",
+    "length" : 2.0148325,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "non3"
+  }, {
+    "boneIndex" : 20,
+    "name" : "r_uparm",
+    "length" : 5.673744,
+    "rsdBaseFilenames" : [ "CMGF" ],
+    "parentBoneName" : "r_collar"
+  } ]
+}

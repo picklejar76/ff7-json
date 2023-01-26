@@ -1,0 +1,178 @@
+{
+  "name" : "cloud_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "jiku",
+    "length" : 43.89106,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "renketu",
+    "length" : 4.0825996,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 2,
+    "name" : "fo_bane",
+    "length" : 25.11524,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "renketu"
+  }, {
+    "boneIndex" : 3,
+    "name" : "up_bane",
+    "length" : 25.15958,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "fo_bane"
+  }, {
+    "boneIndex" : 4,
+    "name" : "hip",
+    "length" : 3.81182,
+    "rsdBaseFilenames" : [ "BRIC" ],
+    "parentBoneName" : "up_bane"
+  }, {
+    "boneIndex" : 5,
+    "name" : "chest",
+    "length" : 9.67809,
+    "rsdBaseFilenames" : [ "BRIE" ],
+    "parentBoneName" : "hip"
+  }, {
+    "boneIndex" : 6,
+    "name" : "head",
+    "length" : 7.1907306,
+    "rsdBaseFilenames" : [ "BRJA" ],
+    "parentBoneName" : "chest"
+  }, {
+    "boneIndex" : 7,
+    "name" : "hair_bl",
+    "length" : 5.3537045,
+    "rsdBaseFilenames" : [ "BRJD" ],
+    "parentBoneName" : "head"
+  }, {
+    "boneIndex" : 8,
+    "name" : "hair_fl",
+    "length" : 5.9386296,
+    "rsdBaseFilenames" : [ "BRJF" ],
+    "parentBoneName" : "head"
+  }, {
+    "boneIndex" : 9,
+    "name" : "hair_fr",
+    "length" : 6.69107,
+    "rsdBaseFilenames" : [ "BSAB" ],
+    "parentBoneName" : "head"
+  }, {
+    "boneIndex" : 10,
+    "name" : "hbr",
+    "length" : 5.8263006,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "head"
+  }, {
+    "boneIndex" : 11,
+    "name" : "hair_br",
+    "length" : 14.889276,
+    "rsdBaseFilenames" : [ "BSAD" ],
+    "parentBoneName" : "hbr"
+  }, {
+    "boneIndex" : 12,
+    "name" : "hmu",
+    "length" : 4.6216493,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "head"
+  }, {
+    "boneIndex" : 13,
+    "name" : "hair_mu",
+    "length" : 12.047661,
+    "rsdBaseFilenames" : [ "BSAF" ],
+    "parentBoneName" : "hmu"
+  }, {
+    "boneIndex" : 14,
+    "name" : "lca",
+    "length" : 8.592558,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "hip"
+  }, {
+    "boneIndex" : 15,
+    "name" : "l_uparm",
+    "length" : 8.104109,
+    "rsdBaseFilenames" : [ "BSBB" ],
+    "parentBoneName" : "lca"
+  }, {
+    "boneIndex" : 16,
+    "name" : "l_foarm",
+    "length" : 8.197379,
+    "rsdBaseFilenames" : [ "BSBD" ],
+    "parentBoneName" : "l_uparm"
+  }, {
+    "boneIndex" : 17,
+    "name" : "sword",
+    "length" : 50.802723,
+    "rsdBaseFilenames" : [ "BSBF" ],
+    "parentBoneName" : "l_foarm"
+  }, {
+    "boneIndex" : 18,
+    "name" : "rca",
+    "length" : 8.592558,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "hip"
+  }, {
+    "boneIndex" : 19,
+    "name" : "r_uparm",
+    "length" : 8.104109,
+    "rsdBaseFilenames" : [ "BSCB" ],
+    "parentBoneName" : "rca"
+  }, {
+    "boneIndex" : 20,
+    "name" : "r_foarm",
+    "length" : 9.918777,
+    "rsdBaseFilenames" : [ "BSCD" ],
+    "parentBoneName" : "r_uparm"
+  }, {
+    "boneIndex" : 21,
+    "name" : "lhl",
+    "length" : 2.059126,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "up_bane"
+  }, {
+    "boneIndex" : 22,
+    "name" : "l_femur",
+    "length" : 10.823144,
+    "rsdBaseFilenames" : [ "BSCF" ],
+    "parentBoneName" : "lhl"
+  }, {
+    "boneIndex" : 23,
+    "name" : "l_tibia",
+    "length" : 12.106122,
+    "rsdBaseFilenames" : [ "BSDB" ],
+    "parentBoneName" : "l_femur"
+  }, {
+    "boneIndex" : 24,
+    "name" : "l_foot",
+    "length" : 9.420133,
+    "rsdBaseFilenames" : [ "BSDD" ],
+    "parentBoneName" : "l_tibia"
+  }, {
+    "boneIndex" : 25,
+    "name" : "rhl",
+    "length" : 2.059126,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "up_bane"
+  }, {
+    "boneIndex" : 26,
+    "name" : "r_femur",
+    "length" : 10.823144,
+    "rsdBaseFilenames" : [ "BSDF" ],
+    "parentBoneName" : "rhl"
+  }, {
+    "boneIndex" : 27,
+    "name" : "r_tibia",
+    "length" : 12.106122,
+    "rsdBaseFilenames" : [ "BSEB" ],
+    "parentBoneName" : "r_femur"
+  }, {
+    "boneIndex" : 28,
+    "name" : "r_foot",
+    "length" : 9.420133,
+    "rsdBaseFilenames" : [ "BSED" ],
+    "parentBoneName" : "r_tibia"
+  } ]
+}

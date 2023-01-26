@@ -1,0 +1,303 @@
+{
+  "vertices" : [ {
+    "x" : 1.29588,
+    "y" : -0.00303283,
+    "z" : -0.0160264
+  }, {
+    "x" : 1.07985,
+    "y" : -0.00359301,
+    "z" : -6.59524
+  }, {
+    "x" : -0.0139955,
+    "y" : -1.31291,
+    "z" : -0.0160235
+  }, {
+    "x" : -0.0117196,
+    "y" : -1.09515,
+    "z" : -6.59523
+  }, {
+    "x" : -1.27597,
+    "y" : -0.00967589,
+    "z" : -0.0160257
+  }, {
+    "x" : -1.06336,
+    "y" : -0.00912826,
+    "z" : -6.59524
+  }, {
+    "x" : -0.00735806,
+    "y" : 1.30021,
+    "z" : -0.0160285
+  }, {
+    "x" : -0.00618169,
+    "y" : 1.08244,
+    "z" : -6.59524
+  } ],
+  "normals" : [ {
+    "x" : 0.80775,
+    "y" : -3.37969E-5,
+    "z" : -0.589525
+  }, {
+    "x" : 0.824977,
+    "y" : 3.08335E-5,
+    "z" : 0.565166
+  }, {
+    "x" : -0.00657489,
+    "y" : 0.825587,
+    "z" : 0.564237
+  }, {
+    "x" : -0.00649832,
+    "y" : 0.808267,
+    "z" : -0.58878
+  }, {
+    "x" : -0.806636,
+    "y" : 6.31123E-5,
+    "z" : -0.591049
+  }, {
+    "x" : -0.823682,
+    "y" : 2.07515E-6,
+    "z" : 0.567052
+  }, {
+    "x" : -0.00666803,
+    "y" : -0.825587,
+    "z" : 0.564235
+  }, {
+    "x" : -0.0064707,
+    "y" : -0.808272,
+    "z" : -0.588774
+  } ],
+  "textureCoordinates" : [ ],
+  "vertexColors" : [ {
+    "r" : 126,
+    "g" : 62,
+    "b" : 42,
+    "a" : -1
+  }, {
+    "r" : 126,
+    "g" : 62,
+    "b" : 42,
+    "a" : -1
+  }, {
+    "r" : 126,
+    "g" : 62,
+    "b" : 42,
+    "a" : -1
+  }, {
+    "r" : 126,
+    "g" : 62,
+    "b" : 42,
+    "a" : -1
+  }, {
+    "r" : 126,
+    "g" : 62,
+    "b" : 42,
+    "a" : -1
+  }, {
+    "r" : 126,
+    "g" : 62,
+    "b" : 42,
+    "a" : -1
+  }, {
+    "r" : 126,
+    "g" : 62,
+    "b" : 42,
+    "a" : -1
+  }, {
+    "r" : 126,
+    "g" : 62,
+    "b" : 42,
+    "a" : -1
+  } ],
+  "polygonColors" : [ {
+    "r" : 126,
+    "g" : 62,
+    "b" : 42,
+    "a" : -1
+  }, {
+    "r" : 126,
+    "g" : 62,
+    "b" : 42,
+    "a" : -1
+  }, {
+    "r" : 126,
+    "g" : 62,
+    "b" : 42,
+    "a" : -1
+  }, {
+    "r" : 126,
+    "g" : 62,
+    "b" : 42,
+    "a" : -1
+  }, {
+    "r" : 126,
+    "g" : 62,
+    "b" : 42,
+    "a" : -1
+  }, {
+    "r" : 126,
+    "g" : 62,
+    "b" : 42,
+    "a" : -1
+  }, {
+    "r" : 126,
+    "g" : 62,
+    "b" : 42,
+    "a" : -1
+  }, {
+    "r" : 126,
+    "g" : 62,
+    "b" : 42,
+    "a" : -1
+  }, {
+    "r" : 126,
+    "g" : 62,
+    "b" : 42,
+    "a" : -1
+  }, {
+    "r" : 126,
+    "g" : 62,
+    "b" : 42,
+    "a" : -1
+  }, {
+    "r" : 126,
+    "g" : 62,
+    "b" : 42,
+    "a" : -1
+  }, {
+    "r" : 126,
+    "g" : 62,
+    "b" : 42,
+    "a" : -1
+  } ],
+  "polygons" : [ {
+    "vertexIndex1" : 0,
+    "vertexIndex2" : 1,
+    "vertexIndex3" : 2,
+    "normalIndex1" : 1,
+    "normalIndex2" : 0,
+    "normalIndex3" : 6,
+    "otherIndex1" : 0,
+    "otherIndex2" : 1,
+    "otherIndex3" : 2
+  }, {
+    "vertexIndex1" : 1,
+    "vertexIndex2" : 3,
+    "vertexIndex3" : 2,
+    "normalIndex1" : 0,
+    "normalIndex2" : 7,
+    "normalIndex3" : 6,
+    "otherIndex1" : 3,
+    "otherIndex2" : 4,
+    "otherIndex3" : 1
+  }, {
+    "vertexIndex1" : 4,
+    "vertexIndex2" : 2,
+    "vertexIndex3" : 5,
+    "normalIndex1" : 5,
+    "normalIndex2" : 6,
+    "normalIndex3" : 4,
+    "otherIndex1" : 5,
+    "otherIndex2" : 6,
+    "otherIndex3" : 7
+  }, {
+    "vertexIndex1" : 2,
+    "vertexIndex2" : 3,
+    "vertexIndex3" : 5,
+    "normalIndex1" : 6,
+    "normalIndex2" : 7,
+    "normalIndex3" : 4,
+    "otherIndex1" : 4,
+    "otherIndex2" : 8,
+    "otherIndex3" : 6
+  }, {
+    "vertexIndex1" : 0,
+    "vertexIndex2" : 6,
+    "vertexIndex3" : 1,
+    "normalIndex1" : 1,
+    "normalIndex2" : 2,
+    "normalIndex3" : 0,
+    "otherIndex1" : 9,
+    "otherIndex2" : 10,
+    "otherIndex3" : 0
+  }, {
+    "vertexIndex1" : 6,
+    "vertexIndex2" : 7,
+    "vertexIndex3" : 1,
+    "normalIndex1" : 2,
+    "normalIndex2" : 3,
+    "normalIndex3" : 0,
+    "otherIndex1" : 11,
+    "otherIndex2" : 12,
+    "otherIndex3" : 10
+  }, {
+    "vertexIndex1" : 4,
+    "vertexIndex2" : 5,
+    "vertexIndex3" : 6,
+    "normalIndex1" : 5,
+    "normalIndex2" : 4,
+    "normalIndex3" : 2,
+    "otherIndex1" : 7,
+    "otherIndex2" : 13,
+    "otherIndex3" : 14
+  }, {
+    "vertexIndex1" : 5,
+    "vertexIndex2" : 7,
+    "vertexIndex3" : 6,
+    "normalIndex1" : 4,
+    "normalIndex2" : 3,
+    "normalIndex3" : 2,
+    "otherIndex1" : 15,
+    "otherIndex2" : 11,
+    "otherIndex3" : 13
+  }, {
+    "vertexIndex1" : 0,
+    "vertexIndex2" : 2,
+    "vertexIndex3" : 6,
+    "normalIndex1" : 1,
+    "normalIndex2" : 6,
+    "normalIndex3" : 2,
+    "otherIndex1" : 2,
+    "otherIndex2" : 16,
+    "otherIndex3" : 9
+  }, {
+    "vertexIndex1" : 2,
+    "vertexIndex2" : 4,
+    "vertexIndex3" : 6,
+    "normalIndex1" : 6,
+    "normalIndex2" : 5,
+    "normalIndex3" : 2,
+    "otherIndex1" : 5,
+    "otherIndex2" : 14,
+    "otherIndex3" : 16
+  }, {
+    "vertexIndex1" : 1,
+    "vertexIndex2" : 7,
+    "vertexIndex3" : 3,
+    "normalIndex1" : 0,
+    "normalIndex2" : 3,
+    "normalIndex3" : 7,
+    "otherIndex1" : 12,
+    "otherIndex2" : 17,
+    "otherIndex3" : 3
+  }, {
+    "vertexIndex1" : 7,
+    "vertexIndex2" : 5,
+    "vertexIndex3" : 3,
+    "normalIndex1" : 3,
+    "normalIndex2" : 4,
+    "normalIndex3" : 7,
+    "otherIndex1" : 15,
+    "otherIndex2" : 8,
+    "otherIndex3" : 17
+  } ],
+  "polygonGroups" : [ {
+    "polygonType" : 1,
+    "offsetPolyIndex" : 0,
+    "numPolysInGroup" : 12,
+    "offsetVertexIndex" : 0,
+    "numVerticesInGroup" : 8,
+    "offsetEdgeIndex" : 0,
+    "offsetTextureCoordinateIndex" : 0,
+    "isTextureUsed" : 0,
+    "textureIndex" : 0
+  } ]
+}

@@ -1,0 +1,33 @@
+{
+  "version" : 1,
+  "numFrames" : 1,
+  "numBones" : 3,
+  "rotationOrder1" : 1,
+  "rotationOrder2" : 0,
+  "rotationOrder3" : 2,
+  "animationFrames" : [ {
+    "rootRotation" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    },
+    "rootTranslation" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0016307831
+    },
+    "boneRotations" : [ {
+      "x" : 90.0,
+      "y" : 90.0,
+      "z" : 0.0
+    }, {
+      "x" : 0.0,
+      "y" : 345.8496,
+      "z" : 90.0
+    }, {
+      "x" : 0.0,
+      "y" : 15.292969,
+      "z" : 90.0
+    } ]
+  } ]
+}

@@ -1,0 +1,172 @@
+{
+  "name" : "sd_ketcy_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "dchest",
+    "length" : 9.535749,
+    "rsdBaseFilenames" : [ "AEBD" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "dl_chest",
+    "length" : 6.46704,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "dchest"
+  }, {
+    "boneIndex" : 2,
+    "name" : "dl_colla",
+    "length" : 2.0349512,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "dl_chest"
+  }, {
+    "boneIndex" : 3,
+    "name" : "dl_uparm",
+    "length" : 15.936046,
+    "rsdBaseFilenames" : [ "AEBF" ],
+    "parentBoneName" : "dl_colla"
+  }, {
+    "boneIndex" : 4,
+    "name" : "dr_chest",
+    "length" : 6.46704,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "dchest"
+  }, {
+    "boneIndex" : 5,
+    "name" : "dr_colla",
+    "length" : 2.0349512,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "dr_chest"
+  }, {
+    "boneIndex" : 6,
+    "name" : "dr_uparm",
+    "length" : 15.936046,
+    "rsdBaseFilenames" : [ "AECB" ],
+    "parentBoneName" : "dr_colla"
+  }, {
+    "boneIndex" : 7,
+    "name" : "joint",
+    "length" : 5.993941,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "dchest"
+  }, {
+    "boneIndex" : 8,
+    "name" : "chest",
+    "length" : 5.3007355,
+    "rsdBaseFilenames" : [ "AECD" ],
+    "parentBoneName" : "joint"
+  }, {
+    "boneIndex" : 9,
+    "name" : "head",
+    "length" : 5.556188,
+    "rsdBaseFilenames" : [ "AECF" ],
+    "parentBoneName" : "chest"
+  }, {
+    "boneIndex" : 10,
+    "name" : "l_chest",
+    "length" : 1.729238,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "chest"
+  }, {
+    "boneIndex" : 11,
+    "name" : "l_collar",
+    "length" : 0.48913145,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "l_chest"
+  }, {
+    "boneIndex" : 12,
+    "name" : "l_uparm",
+    "length" : 1.7261752,
+    "rsdBaseFilenames" : [ "AEDC" ],
+    "parentBoneName" : "l_collar"
+  }, {
+    "boneIndex" : 13,
+    "name" : "l_foarm",
+    "length" : 1.3604755,
+    "rsdBaseFilenames" : [ "AEDE" ],
+    "parentBoneName" : "l_uparm"
+  }, {
+    "boneIndex" : 14,
+    "name" : "l_hand",
+    "length" : 3.0028324,
+    "rsdBaseFilenames" : [ "AEEA" ],
+    "parentBoneName" : "l_foarm"
+  }, {
+    "boneIndex" : 15,
+    "name" : "non1",
+    "length" : 1.9098412,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "chest"
+  }, {
+    "boneIndex" : 16,
+    "name" : "mant",
+    "length" : 6.831558,
+    "rsdBaseFilenames" : [ "AEEC" ],
+    "parentBoneName" : "non1"
+  }, {
+    "boneIndex" : 17,
+    "name" : "r_chest",
+    "length" : 1.729238,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "chest"
+  }, {
+    "boneIndex" : 18,
+    "name" : "r_collar",
+    "length" : 0.48913145,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "r_chest"
+  }, {
+    "boneIndex" : 19,
+    "name" : "r_uparm",
+    "length" : 1.7261752,
+    "rsdBaseFilenames" : [ "AEEE" ],
+    "parentBoneName" : "r_collar"
+  }, {
+    "boneIndex" : 20,
+    "name" : "r_foarm",
+    "length" : 1.3604755,
+    "rsdBaseFilenames" : [ "AEFA" ],
+    "parentBoneName" : "r_uparm"
+  }, {
+    "boneIndex" : 21,
+    "name" : "r_hand",
+    "length" : 3.0028324,
+    "rsdBaseFilenames" : [ "AEFC" ],
+    "parentBoneName" : "r_foarm"
+  }, {
+    "boneIndex" : 22,
+    "name" : "dl_hip",
+    "length" : 4.6003513,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 23,
+    "name" : "dl_femur",
+    "length" : 4.4684477,
+    "rsdBaseFilenames" : [ "AEFE" ],
+    "parentBoneName" : "dl_hip"
+  }, {
+    "boneIndex" : 24,
+    "name" : "dl_foot",
+    "length" : 15.062583,
+    "rsdBaseFilenames" : [ "AEGA" ],
+    "parentBoneName" : "dl_femur"
+  }, {
+    "boneIndex" : 25,
+    "name" : "dr_hip",
+    "length" : 4.6003513,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 26,
+    "name" : "dr_femur",
+    "length" : 4.4684477,
+    "rsdBaseFilenames" : [ "AEGC" ],
+    "parentBoneName" : "dr_hip"
+  }, {
+    "boneIndex" : 27,
+    "name" : "dr_foot",
+    "length" : 15.062583,
+    "rsdBaseFilenames" : [ "AEGE" ],
+    "parentBoneName" : "dr_femur"
+  } ]
+}

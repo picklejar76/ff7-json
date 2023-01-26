@@ -1,0 +1,40 @@
+{
+  "name" : "triflag_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "bone_1",
+    "length" : 12.875,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "bone_2",
+    "length" : 4.764509,
+    "rsdBaseFilenames" : [ "HRAF" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 2,
+    "name" : "bone_3",
+    "length" : 4.6173754,
+    "rsdBaseFilenames" : [ "HRBB" ],
+    "parentBoneName" : "bone_2"
+  }, {
+    "boneIndex" : 3,
+    "name" : "bone_4",
+    "length" : 4.5504417,
+    "rsdBaseFilenames" : [ "HRBD" ],
+    "parentBoneName" : "bone_3"
+  }, {
+    "boneIndex" : 4,
+    "name" : "bone_5",
+    "length" : 4.5557566,
+    "rsdBaseFilenames" : [ "HRBF" ],
+    "parentBoneName" : "bone_4"
+  }, {
+    "boneIndex" : 5,
+    "name" : "bone_6",
+    "length" : 3.6535282,
+    "rsdBaseFilenames" : [ "HRCB" ],
+    "parentBoneName" : "bone_5"
+  } ]
+}

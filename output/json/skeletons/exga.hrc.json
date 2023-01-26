@@ -1,0 +1,142 @@
+{
+  "name" : "condor_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "kosi",
+    "length" : 20.279709,
+    "rsdBaseFilenames" : [ "EXGB" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "mune",
+    "length" : 17.176308,
+    "rsdBaseFilenames" : [ "EXGD" ],
+    "parentBoneName" : "kosi"
+  }, {
+    "boneIndex" : 2,
+    "name" : "atam",
+    "length" : 11.589569,
+    "rsdBaseFilenames" : [ "EXGF" ],
+    "parentBoneName" : "mune"
+  }, {
+    "boneIndex" : 3,
+    "name" : "kuti",
+    "length" : 9.971735,
+    "rsdBaseFilenames" : [ "EXHB" ],
+    "parentBoneName" : "atam"
+  }, {
+    "boneIndex" : 4,
+    "name" : "non1",
+    "length" : 19.642864,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "kosi"
+  }, {
+    "boneIndex" : 5,
+    "name" : "l_hane1",
+    "length" : 12.914067,
+    "rsdBaseFilenames" : [ "EXHD" ],
+    "parentBoneName" : "non1"
+  }, {
+    "boneIndex" : 6,
+    "name" : "l_hane2",
+    "length" : 11.196426,
+    "rsdBaseFilenames" : [ "EXHF" ],
+    "parentBoneName" : "l_hane1"
+  }, {
+    "boneIndex" : 7,
+    "name" : "l_hane3",
+    "length" : 35.516823,
+    "rsdBaseFilenames" : [ "EXIB" ],
+    "parentBoneName" : "l_hane2"
+  }, {
+    "boneIndex" : 8,
+    "name" : "non2",
+    "length" : 19.642864,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "kosi"
+  }, {
+    "boneIndex" : 9,
+    "name" : "r_hane1",
+    "length" : 12.914067,
+    "rsdBaseFilenames" : [ "EXID" ],
+    "parentBoneName" : "non2"
+  }, {
+    "boneIndex" : 10,
+    "name" : "r_hane2",
+    "length" : 11.196426,
+    "rsdBaseFilenames" : [ "EXIF" ],
+    "parentBoneName" : "r_hane1"
+  }, {
+    "boneIndex" : 11,
+    "name" : "r_hane3",
+    "length" : 35.516823,
+    "rsdBaseFilenames" : [ "EXJB" ],
+    "parentBoneName" : "r_hane2"
+  }, {
+    "boneIndex" : 12,
+    "name" : "l_momo",
+    "length" : 17.24515,
+    "rsdBaseFilenames" : [ "EXJD" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 13,
+    "name" : "l_sune",
+    "length" : 9.185305,
+    "rsdBaseFilenames" : [ "EXJF" ],
+    "parentBoneName" : "l_momo"
+  }, {
+    "boneIndex" : 14,
+    "name" : "l_asi",
+    "length" : 16.576626,
+    "rsdBaseFilenames" : [ "EYAB" ],
+    "parentBoneName" : "l_sune"
+  }, {
+    "boneIndex" : 15,
+    "name" : "l_tume1",
+    "length" : 16.103619,
+    "rsdBaseFilenames" : [ "EYAD" ],
+    "parentBoneName" : "l_asi"
+  }, {
+    "boneIndex" : 16,
+    "name" : "l_tume3",
+    "length" : 18.888643,
+    "rsdBaseFilenames" : [ "EYAF" ],
+    "parentBoneName" : "l_asi"
+  }, {
+    "boneIndex" : 17,
+    "name" : "ottpo",
+    "length" : 50.18299,
+    "rsdBaseFilenames" : [ "EYBB" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 18,
+    "name" : "r_momo",
+    "length" : 17.24515,
+    "rsdBaseFilenames" : [ "EYBD" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 19,
+    "name" : "r_sune",
+    "length" : 9.185305,
+    "rsdBaseFilenames" : [ "EYBF" ],
+    "parentBoneName" : "r_momo"
+  }, {
+    "boneIndex" : 20,
+    "name" : "r_asi",
+    "length" : 16.576626,
+    "rsdBaseFilenames" : [ "EYCB" ],
+    "parentBoneName" : "r_sune"
+  }, {
+    "boneIndex" : 21,
+    "name" : "r_tume1",
+    "length" : 16.103619,
+    "rsdBaseFilenames" : [ "EYCD" ],
+    "parentBoneName" : "r_asi"
+  }, {
+    "boneIndex" : 22,
+    "name" : "r_tume3",
+    "length" : 18.888643,
+    "rsdBaseFilenames" : [ "EYCF" ],
+    "parentBoneName" : "r_asi"
+  } ]
+}

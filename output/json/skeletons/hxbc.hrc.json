@@ -1,0 +1,166 @@
+{
+  "name" : "robo_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "chest",
+    "length" : 20.365095,
+    "rsdBaseFilenames" : [ "HXBD", "HXBF" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "head",
+    "length" : 9.354317,
+    "rsdBaseFilenames" : [ "HXCB", "HXCD" ],
+    "parentBoneName" : "chest"
+  }, {
+    "boneIndex" : 2,
+    "name" : "non1",
+    "length" : 13.745758,
+    "rsdBaseFilenames" : [ "HXCF" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 3,
+    "name" : "l_hip",
+    "length" : 12.531696,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "non1"
+  }, {
+    "boneIndex" : 4,
+    "name" : "l_femur",
+    "length" : 24.052011,
+    "rsdBaseFilenames" : [ "HXDB" ],
+    "parentBoneName" : "l_hip"
+  }, {
+    "boneIndex" : 5,
+    "name" : "l_tibia",
+    "length" : 28.2776,
+    "rsdBaseFilenames" : [ "HXDD" ],
+    "parentBoneName" : "l_femur"
+  }, {
+    "boneIndex" : 6,
+    "name" : "l_foot",
+    "length" : 22.080791,
+    "rsdBaseFilenames" : [ "HXDF" ],
+    "parentBoneName" : "l_tibia"
+  }, {
+    "boneIndex" : 7,
+    "name" : "r_hip",
+    "length" : 12.531696,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "non1"
+  }, {
+    "boneIndex" : 8,
+    "name" : "r_femur",
+    "length" : 24.052011,
+    "rsdBaseFilenames" : [ "HXEB" ],
+    "parentBoneName" : "r_hip"
+  }, {
+    "boneIndex" : 9,
+    "name" : "r_tibia",
+    "length" : 28.2776,
+    "rsdBaseFilenames" : [ "HXED" ],
+    "parentBoneName" : "r_femur"
+  }, {
+    "boneIndex" : 10,
+    "name" : "r_foot",
+    "length" : 22.080791,
+    "rsdBaseFilenames" : [ "HXEF" ],
+    "parentBoneName" : "r_tibia"
+  }, {
+    "boneIndex" : 11,
+    "name" : "non2",
+    "length" : 22.768658,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 12,
+    "name" : "l_coiiar",
+    "length" : 18.68447,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "non2"
+  }, {
+    "boneIndex" : 13,
+    "name" : "l_uparm",
+    "length" : 19.32735,
+    "rsdBaseFilenames" : [ "HXFB" ],
+    "parentBoneName" : "l_coiiar"
+  }, {
+    "boneIndex" : 14,
+    "name" : "l_foarm",
+    "length" : 32.944145,
+    "rsdBaseFilenames" : [ "HXFD" ],
+    "parentBoneName" : "l_uparm"
+  }, {
+    "boneIndex" : 15,
+    "name" : "l_hand",
+    "length" : 21.832155,
+    "rsdBaseFilenames" : [ "HXFF" ],
+    "parentBoneName" : "l_foarm"
+  }, {
+    "boneIndex" : 16,
+    "name" : "non5",
+    "length" : 6.7500167,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "l_uparm"
+  }, {
+    "boneIndex" : 17,
+    "name" : "l_bhand",
+    "length" : 40.593246,
+    "rsdBaseFilenames" : [ "HXGB" ],
+    "parentBoneName" : "non5"
+  }, {
+    "boneIndex" : 18,
+    "name" : "non3",
+    "length" : 22.768658,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 19,
+    "name" : "r_collar",
+    "length" : 18.68447,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "non3"
+  }, {
+    "boneIndex" : 20,
+    "name" : "r_uparm",
+    "length" : 19.32735,
+    "rsdBaseFilenames" : [ "HXGD" ],
+    "parentBoneName" : "r_collar"
+  }, {
+    "boneIndex" : 21,
+    "name" : "non6",
+    "length" : 6.7500167,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "r_uparm"
+  }, {
+    "boneIndex" : 22,
+    "name" : "r_bhand",
+    "length" : 40.593246,
+    "rsdBaseFilenames" : [ "HXGF" ],
+    "parentBoneName" : "non6"
+  }, {
+    "boneIndex" : 23,
+    "name" : "r_foarm",
+    "length" : 32.944145,
+    "rsdBaseFilenames" : [ "HXHB" ],
+    "parentBoneName" : "r_uparm"
+  }, {
+    "boneIndex" : 24,
+    "name" : "r_hand",
+    "length" : 21.832155,
+    "rsdBaseFilenames" : [ "HXHD" ],
+    "parentBoneName" : "r_foarm"
+  }, {
+    "boneIndex" : 25,
+    "name" : "non4",
+    "length" : 26.922152,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 26,
+    "name" : "tobila",
+    "length" : 7.8493595,
+    "rsdBaseFilenames" : [ "HXHF" ],
+    "parentBoneName" : "non4"
+  } ]
+}

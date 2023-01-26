@@ -1,0 +1,70 @@
+{
+  "name" : "dyne_p_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "bone_6",
+    "length" : 2.3485367,
+    "rsdBaseFilenames" : [ "FWHA" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "bone_5",
+    "length" : 2.3351927,
+    "rsdBaseFilenames" : [ "FWHC" ],
+    "parentBoneName" : "bone_6"
+  }, {
+    "boneIndex" : 2,
+    "name" : "bone_4",
+    "length" : 2.25,
+    "rsdBaseFilenames" : [ "FWHE" ],
+    "parentBoneName" : "bone_5"
+  }, {
+    "boneIndex" : 3,
+    "name" : "bone_3",
+    "length" : 2.3881216,
+    "rsdBaseFilenames" : [ "FWIA" ],
+    "parentBoneName" : "bone_4"
+  }, {
+    "boneIndex" : 4,
+    "name" : "bone_2",
+    "length" : 2.427061,
+    "rsdBaseFilenames" : [ "FWIC" ],
+    "parentBoneName" : "bone_3"
+  }, {
+    "boneIndex" : 5,
+    "name" : "bone_1",
+    "length" : 3.375,
+    "rsdBaseFilenames" : [ "FWIE" ],
+    "parentBoneName" : "bone_2"
+  }, {
+    "boneIndex" : 6,
+    "name" : "bone_7",
+    "length" : 2.3485367,
+    "rsdBaseFilenames" : [ "FWJA" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 7,
+    "name" : "bone_8",
+    "length" : 2.3351927,
+    "rsdBaseFilenames" : [ "FWJC" ],
+    "parentBoneName" : "bone_7"
+  }, {
+    "boneIndex" : 8,
+    "name" : "bone_9",
+    "length" : 2.25,
+    "rsdBaseFilenames" : [ "FWJE" ],
+    "parentBoneName" : "bone_8"
+  }, {
+    "boneIndex" : 9,
+    "name" : "bone_10",
+    "length" : 2.3881216,
+    "rsdBaseFilenames" : [ "FXAA" ],
+    "parentBoneName" : "bone_9"
+  }, {
+    "boneIndex" : 10,
+    "name" : "bone_11",
+    "length" : 2.294695,
+    "rsdBaseFilenames" : [ "FXAC" ],
+    "parentBoneName" : "bone_10"
+  } ]
+}

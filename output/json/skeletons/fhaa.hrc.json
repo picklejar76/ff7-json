@@ -1,0 +1,166 @@
+{
+  "name" : "kaitei_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "kosi",
+    "length" : 6.2818375,
+    "rsdBaseFilenames" : [ "FHAB", "FHAD", "FHAF" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "m_femur",
+    "length" : 7.043279,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "kosi"
+  }, {
+    "boneIndex" : 2,
+    "name" : "m_tibia",
+    "length" : 12.7432,
+    "rsdBaseFilenames" : [ "FHBB" ],
+    "parentBoneName" : "m_femur"
+  }, {
+    "boneIndex" : 3,
+    "name" : "m_foot",
+    "length" : 14.128943,
+    "rsdBaseFilenames" : [ "FHBD" ],
+    "parentBoneName" : "m_tibia"
+  }, {
+    "boneIndex" : 4,
+    "name" : "kalada",
+    "length" : 20.84855,
+    "rsdBaseFilenames" : [ "FHBF" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 5,
+    "name" : "non6",
+    "length" : 1.4351029,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "kalada"
+  }, {
+    "boneIndex" : 6,
+    "name" : "jyoin1",
+    "length" : 26.334698,
+    "rsdBaseFilenames" : [ "FHCB" ],
+    "parentBoneName" : "non6"
+  }, {
+    "boneIndex" : 7,
+    "name" : "jyoin2",
+    "length" : 3.314804,
+    "rsdBaseFilenames" : [ "FHCD" ],
+    "parentBoneName" : "jyoin1"
+  }, {
+    "boneIndex" : 8,
+    "name" : "jyoin3",
+    "length" : 26.9412,
+    "rsdBaseFilenames" : [ "FHCF" ],
+    "parentBoneName" : "jyoin2"
+  }, {
+    "boneIndex" : 9,
+    "name" : "non3",
+    "length" : 5.326634,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "jyoin3"
+  }, {
+    "boneIndex" : 10,
+    "name" : "l_kata",
+    "length" : 32.19852,
+    "rsdBaseFilenames" : [ "FHDB" ],
+    "parentBoneName" : "non3"
+  }, {
+    "boneIndex" : 11,
+    "name" : "l_ude",
+    "length" : 32.782745,
+    "rsdBaseFilenames" : [ "FHDD" ],
+    "parentBoneName" : "l_kata"
+  }, {
+    "boneIndex" : 12,
+    "name" : "l_yubi",
+    "length" : 16.061783,
+    "rsdBaseFilenames" : [ "FHDF" ],
+    "parentBoneName" : "l_ude"
+  }, {
+    "boneIndex" : 13,
+    "name" : "l_yubi1",
+    "length" : 15.619484,
+    "rsdBaseFilenames" : [ "FHEB" ],
+    "parentBoneName" : "l_ude"
+  }, {
+    "boneIndex" : 14,
+    "name" : "non4",
+    "length" : 5.326634,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "jyoin3"
+  }, {
+    "boneIndex" : 15,
+    "name" : "r_kata",
+    "length" : 32.19852,
+    "rsdBaseFilenames" : [ "FHED" ],
+    "parentBoneName" : "non4"
+  }, {
+    "boneIndex" : 16,
+    "name" : "r_ude",
+    "length" : 32.782745,
+    "rsdBaseFilenames" : [ "FHEF" ],
+    "parentBoneName" : "r_kata"
+  }, {
+    "boneIndex" : 17,
+    "name" : "r_yubi",
+    "length" : 15.619484,
+    "rsdBaseFilenames" : [ "FHFB" ],
+    "parentBoneName" : "r_ude"
+  }, {
+    "boneIndex" : 18,
+    "name" : "r_yubi1",
+    "length" : 16.061783,
+    "rsdBaseFilenames" : [ "FHFD" ],
+    "parentBoneName" : "r_ude"
+  }, {
+    "boneIndex" : 19,
+    "name" : "non1",
+    "length" : 6.786153,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 20,
+    "name" : "l_femur",
+    "length" : 7.0432734,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "non1"
+  }, {
+    "boneIndex" : 21,
+    "name" : "l_tibia",
+    "length" : 12.7432,
+    "rsdBaseFilenames" : [ "FHFF" ],
+    "parentBoneName" : "l_femur"
+  }, {
+    "boneIndex" : 22,
+    "name" : "l_foot",
+    "length" : 14.128943,
+    "rsdBaseFilenames" : [ "FHGB" ],
+    "parentBoneName" : "l_tibia"
+  }, {
+    "boneIndex" : 23,
+    "name" : "non2",
+    "length" : 6.786153,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 24,
+    "name" : "r_femur",
+    "length" : 7.0432725,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "non2"
+  }, {
+    "boneIndex" : 25,
+    "name" : "r_tibia",
+    "length" : 12.7432,
+    "rsdBaseFilenames" : [ "FHGD" ],
+    "parentBoneName" : "r_femur"
+  }, {
+    "boneIndex" : 26,
+    "name" : "r_foot",
+    "length" : 14.128943,
+    "rsdBaseFilenames" : [ "FHGF" ],
+    "parentBoneName" : "r_tibia"
+  } ]
+}

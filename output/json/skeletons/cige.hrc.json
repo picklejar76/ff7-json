@@ -1,0 +1,130 @@
+{
+  "name" : "nman_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "hip",
+    "length" : 1.7457236,
+    "rsdBaseFilenames" : [ "CIGF" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "chest",
+    "length" : 4.35991,
+    "rsdBaseFilenames" : [ "CIHB" ],
+    "parentBoneName" : "hip"
+  }, {
+    "boneIndex" : 2,
+    "name" : "head",
+    "length" : 6.8333898,
+    "rsdBaseFilenames" : [ "CIHD" ],
+    "parentBoneName" : "chest"
+  }, {
+    "boneIndex" : 3,
+    "name" : "l_cst",
+    "length" : 4.1348233,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "hip"
+  }, {
+    "boneIndex" : 4,
+    "name" : "l_col",
+    "length" : 2.30646,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "l_cst"
+  }, {
+    "boneIndex" : 5,
+    "name" : "l_uparm",
+    "length" : 2.38332,
+    "rsdBaseFilenames" : [ "CIIC" ],
+    "parentBoneName" : "l_col"
+  }, {
+    "boneIndex" : 6,
+    "name" : "l_foarm",
+    "length" : 4.606489,
+    "rsdBaseFilenames" : [ "CIIE" ],
+    "parentBoneName" : "l_uparm"
+  }, {
+    "boneIndex" : 7,
+    "name" : "l_hnd",
+    "length" : 2.5993977,
+    "rsdBaseFilenames" : [ "CIJA" ],
+    "parentBoneName" : "l_foarm"
+  }, {
+    "boneIndex" : 8,
+    "name" : "r_cst",
+    "length" : 4.1348233,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "hip"
+  }, {
+    "boneIndex" : 9,
+    "name" : "r_col",
+    "length" : 2.30646,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "r_cst"
+  }, {
+    "boneIndex" : 10,
+    "name" : "r_uparm",
+    "length" : 2.38332,
+    "rsdBaseFilenames" : [ "CIJC" ],
+    "parentBoneName" : "r_col"
+  }, {
+    "boneIndex" : 11,
+    "name" : "r_foarm",
+    "length" : 4.606489,
+    "rsdBaseFilenames" : [ "CIJE" ],
+    "parentBoneName" : "r_uparm"
+  }, {
+    "boneIndex" : 12,
+    "name" : "r_hnd",
+    "length" : 2.5993977,
+    "rsdBaseFilenames" : [ "CJAA" ],
+    "parentBoneName" : "r_foarm"
+  }, {
+    "boneIndex" : 13,
+    "name" : "l_hip",
+    "length" : 1.961564,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 14,
+    "name" : "l_fmr",
+    "length" : 5.830908,
+    "rsdBaseFilenames" : [ "CJAC" ],
+    "parentBoneName" : "l_hip"
+  }, {
+    "boneIndex" : 15,
+    "name" : "l_tba",
+    "length" : 6.549399,
+    "rsdBaseFilenames" : [ "CJAE" ],
+    "parentBoneName" : "l_fmr"
+  }, {
+    "boneIndex" : 16,
+    "name" : "l_fot",
+    "length" : 6.905876,
+    "rsdBaseFilenames" : [ "CJBA" ],
+    "parentBoneName" : "l_tba"
+  }, {
+    "boneIndex" : 17,
+    "name" : "r_hip",
+    "length" : 1.961564,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 18,
+    "name" : "r_fmr",
+    "length" : 5.830908,
+    "rsdBaseFilenames" : [ "CJBC" ],
+    "parentBoneName" : "r_hip"
+  }, {
+    "boneIndex" : 19,
+    "name" : "r_tba",
+    "length" : 6.549399,
+    "rsdBaseFilenames" : [ "CJBE" ],
+    "parentBoneName" : "r_fmr"
+  }, {
+    "boneIndex" : 20,
+    "name" : "r_fot",
+    "length" : 6.905876,
+    "rsdBaseFilenames" : [ "CJCA" ],
+    "parentBoneName" : "r_tba"
+  } ]
+}

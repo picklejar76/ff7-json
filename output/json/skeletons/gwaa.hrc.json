@@ -1,0 +1,16 @@
+{
+  "name" : "planet_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "bone_pl",
+    "length" : 5.0,
+    "rsdBaseFilenames" : [ "GWAB" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "born_ei",
+    "length" : 10.0,
+    "rsdBaseFilenames" : [ "GWAD", "GWAF" ],
+    "parentBoneName" : "root"
+  } ]
+}

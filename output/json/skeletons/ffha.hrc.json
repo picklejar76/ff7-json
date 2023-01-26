@@ -1,0 +1,88 @@
+{
+  "name" : "fish3_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "bone_1",
+    "length" : 12.74868,
+    "rsdBaseFilenames" : [ "FFHB" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "bone_2",
+    "length" : 3.7575684,
+    "rsdBaseFilenames" : [ "FFHD" ],
+    "parentBoneName" : "bone_1"
+  }, {
+    "boneIndex" : 2,
+    "name" : "bone_12",
+    "length" : 48.559208,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 3,
+    "name" : "bone_13",
+    "length" : 12.748669,
+    "rsdBaseFilenames" : [ "FFHF" ],
+    "parentBoneName" : "bone_12"
+  }, {
+    "boneIndex" : 4,
+    "name" : "bone_14",
+    "length" : 3.7575674,
+    "rsdBaseFilenames" : [ "FFIB" ],
+    "parentBoneName" : "bone_13"
+  }, {
+    "boneIndex" : 5,
+    "name" : "bone_3",
+    "length" : 33.207886,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 6,
+    "name" : "bone_4",
+    "length" : 12.748686,
+    "rsdBaseFilenames" : [ "FFID" ],
+    "parentBoneName" : "bone_3"
+  }, {
+    "boneIndex" : 7,
+    "name" : "bone_5",
+    "length" : 3.7575674,
+    "rsdBaseFilenames" : [ "FFIF" ],
+    "parentBoneName" : "bone_4"
+  }, {
+    "boneIndex" : 8,
+    "name" : "bone_6",
+    "length" : 28.953592,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 9,
+    "name" : "bone_7",
+    "length" : 12.74866,
+    "rsdBaseFilenames" : [ "FFJB" ],
+    "parentBoneName" : "bone_6"
+  }, {
+    "boneIndex" : 10,
+    "name" : "bone_8",
+    "length" : 3.757565,
+    "rsdBaseFilenames" : [ "FFJD" ],
+    "parentBoneName" : "bone_7"
+  }, {
+    "boneIndex" : 11,
+    "name" : "bone_9",
+    "length" : 21.866945,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 12,
+    "name" : "bone_10",
+    "length" : 12.7486725,
+    "rsdBaseFilenames" : [ "FFJF" ],
+    "parentBoneName" : "bone_9"
+  }, {
+    "boneIndex" : 13,
+    "name" : "bone_11",
+    "length" : 3.7575684,
+    "rsdBaseFilenames" : [ "FGAB" ],
+    "parentBoneName" : "bone_10"
+  } ]
+}

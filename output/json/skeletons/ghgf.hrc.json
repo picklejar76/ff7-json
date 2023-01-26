@@ -1,0 +1,106 @@
+{
+  "name" : "mech_st",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "boday",
+    "length" : 24.317703,
+    "rsdBaseFilenames" : [ "GHHA" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "kubi",
+    "length" : 12.497742,
+    "rsdBaseFilenames" : [ "GHHC" ],
+    "parentBoneName" : "boday"
+  }, {
+    "boneIndex" : 2,
+    "name" : "kubi2",
+    "length" : 5.495331,
+    "rsdBaseFilenames" : [ "GHHE" ],
+    "parentBoneName" : "kubi"
+  }, {
+    "boneIndex" : 3,
+    "name" : "me",
+    "length" : 6.99701,
+    "rsdBaseFilenames" : [ "GHIA" ],
+    "parentBoneName" : "kubi2"
+  }, {
+    "boneIndex" : 4,
+    "name" : "non1",
+    "length" : 12.499904,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "boday"
+  }, {
+    "boneIndex" : 5,
+    "name" : "l_kata",
+    "length" : 12.307495,
+    "rsdBaseFilenames" : [ "GHIC" ],
+    "parentBoneName" : "non1"
+  }, {
+    "boneIndex" : 6,
+    "name" : "l_ude",
+    "length" : 17.354172,
+    "rsdBaseFilenames" : [ "GHIE" ],
+    "parentBoneName" : "l_kata"
+  }, {
+    "boneIndex" : 7,
+    "name" : "l_te",
+    "length" : 11.797957,
+    "rsdBaseFilenames" : [ "GHJA" ],
+    "parentBoneName" : "l_ude"
+  }, {
+    "boneIndex" : 8,
+    "name" : "l_tume",
+    "length" : 9.347687,
+    "rsdBaseFilenames" : [ "GHJC" ],
+    "parentBoneName" : "l_ude"
+  }, {
+    "boneIndex" : 9,
+    "name" : "l_tyia",
+    "length" : 8.758857,
+    "rsdBaseFilenames" : [ "GHJE" ],
+    "parentBoneName" : "l_ude"
+  }, {
+    "boneIndex" : 10,
+    "name" : "non2",
+    "length" : 12.499904,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "boday"
+  }, {
+    "boneIndex" : 11,
+    "name" : "r_kata",
+    "length" : 12.307495,
+    "rsdBaseFilenames" : [ "GIAA" ],
+    "parentBoneName" : "non2"
+  }, {
+    "boneIndex" : 12,
+    "name" : "r_ude",
+    "length" : 17.354172,
+    "rsdBaseFilenames" : [ "GIAC" ],
+    "parentBoneName" : "r_kata"
+  }, {
+    "boneIndex" : 13,
+    "name" : "r_te",
+    "length" : 11.797957,
+    "rsdBaseFilenames" : [ "GIAE" ],
+    "parentBoneName" : "r_ude"
+  }, {
+    "boneIndex" : 14,
+    "name" : "r_tume",
+    "length" : 9.347687,
+    "rsdBaseFilenames" : [ "GIBA" ],
+    "parentBoneName" : "r_ude"
+  }, {
+    "boneIndex" : 15,
+    "name" : "r_tyia",
+    "length" : 8.758857,
+    "rsdBaseFilenames" : [ "GIBC" ],
+    "parentBoneName" : "r_ude"
+  }, {
+    "boneIndex" : 16,
+    "name" : "ri_tyia",
+    "length" : 5.2821884,
+    "rsdBaseFilenames" : [ "GIBE" ],
+    "parentBoneName" : "root"
+  } ]
+}

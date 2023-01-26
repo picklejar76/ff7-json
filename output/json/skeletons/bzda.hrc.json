@@ -1,0 +1,94 @@
+{
+  "name" : "sd_bic_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "foot",
+    "length" : 21.955591,
+    "rsdBaseFilenames" : [ "BZDB", "BZDD" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "chest",
+    "length" : 24.22545,
+    "rsdBaseFilenames" : [ "BZDF" ],
+    "parentBoneName" : "foot"
+  }, {
+    "boneIndex" : 2,
+    "name" : "head",
+    "length" : 9.681962,
+    "rsdBaseFilenames" : [ "BZEB" ],
+    "parentBoneName" : "chest"
+  }, {
+    "boneIndex" : 3,
+    "name" : "l_collar",
+    "length" : 16.918049,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "chest"
+  }, {
+    "boneIndex" : 4,
+    "name" : "l_uparm",
+    "length" : 10.062657,
+    "rsdBaseFilenames" : [ "BZED" ],
+    "parentBoneName" : "l_collar"
+  }, {
+    "boneIndex" : 5,
+    "name" : "l_elbow",
+    "length" : 3.7124965,
+    "rsdBaseFilenames" : [ "BZEF" ],
+    "parentBoneName" : "l_uparm"
+  }, {
+    "boneIndex" : 6,
+    "name" : "l_elbow2",
+    "length" : 3.311566,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "l_elbow"
+  }, {
+    "boneIndex" : 7,
+    "name" : "l_foarm",
+    "length" : 12.35128,
+    "rsdBaseFilenames" : [ "BZFB" ],
+    "parentBoneName" : "l_elbow2"
+  }, {
+    "boneIndex" : 8,
+    "name" : "l_hand",
+    "length" : 13.667908,
+    "rsdBaseFilenames" : [ "BZFD" ],
+    "parentBoneName" : "l_foarm"
+  }, {
+    "boneIndex" : 9,
+    "name" : "r_collar",
+    "length" : 16.918049,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "chest"
+  }, {
+    "boneIndex" : 10,
+    "name" : "r_uparm",
+    "length" : 10.062657,
+    "rsdBaseFilenames" : [ "BZFF" ],
+    "parentBoneName" : "r_collar"
+  }, {
+    "boneIndex" : 11,
+    "name" : "r_elbow",
+    "length" : 3.7124965,
+    "rsdBaseFilenames" : [ "BZGB" ],
+    "parentBoneName" : "r_uparm"
+  }, {
+    "boneIndex" : 12,
+    "name" : "r_elbow2",
+    "length" : 3.311566,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "r_elbow"
+  }, {
+    "boneIndex" : 13,
+    "name" : "r_foarm",
+    "length" : 12.35128,
+    "rsdBaseFilenames" : [ "BZGD" ],
+    "parentBoneName" : "r_elbow2"
+  }, {
+    "boneIndex" : 14,
+    "name" : "r_hand",
+    "length" : 13.667908,
+    "rsdBaseFilenames" : [ "BZGF" ],
+    "parentBoneName" : "r_foarm"
+  } ]
+}

@@ -1,0 +1,16 @@
+{
+  "name" : "sptarm_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "bone_1",
+    "length" : 10.593771,
+    "rsdBaseFilenames" : [ "EEFC" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "bone_2",
+    "length" : 10.593771,
+    "rsdBaseFilenames" : [ "EEFE" ],
+    "parentBoneName" : "root"
+  } ]
+}

@@ -1,0 +1,76 @@
+{
+  "name" : "guid_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "kosi",
+    "length" : 6.558897,
+    "rsdBaseFilenames" : [ "ASJD" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "atama",
+    "length" : 10.319253,
+    "rsdBaseFilenames" : [ "ASJF", "ATAB" ],
+    "parentBoneName" : "kosi"
+  }, {
+    "boneIndex" : 2,
+    "name" : "non2",
+    "length" : 5.40722,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "atama"
+  }, {
+    "boneIndex" : 3,
+    "name" : "l_hige1",
+    "length" : 4.2101264,
+    "rsdBaseFilenames" : [ "ATAD" ],
+    "parentBoneName" : "non2"
+  }, {
+    "boneIndex" : 4,
+    "name" : "l_hige2",
+    "length" : 4.0434923,
+    "rsdBaseFilenames" : [ "ATAF" ],
+    "parentBoneName" : "l_hige1"
+  }, {
+    "boneIndex" : 5,
+    "name" : "non3",
+    "length" : 5.40722,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "atama"
+  }, {
+    "boneIndex" : 6,
+    "name" : "r_hige1",
+    "length" : 4.2101264,
+    "rsdBaseFilenames" : [ "ATBB" ],
+    "parentBoneName" : "non3"
+  }, {
+    "boneIndex" : 7,
+    "name" : "r_hig2",
+    "length" : 4.0434923,
+    "rsdBaseFilenames" : [ "ATBD" ],
+    "parentBoneName" : "r_hige1"
+  }, {
+    "boneIndex" : 8,
+    "name" : "non1",
+    "length" : 9.358782,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 9,
+    "name" : "o1",
+    "length" : 8.809799,
+    "rsdBaseFilenames" : [ "ATBF" ],
+    "parentBoneName" : "non1"
+  }, {
+    "boneIndex" : 10,
+    "name" : "o2",
+    "length" : 8.809797,
+    "rsdBaseFilenames" : [ "ATCB" ],
+    "parentBoneName" : "o1"
+  }, {
+    "boneIndex" : 11,
+    "name" : "o3",
+    "length" : 5.09778,
+    "rsdBaseFilenames" : [ "ATCD" ],
+    "parentBoneName" : "o2"
+  } ]
+}

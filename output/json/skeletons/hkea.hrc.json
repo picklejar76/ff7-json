@@ -1,0 +1,16 @@
+{
+  "name" : "kao_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "bone_1",
+    "length" : 12.692575,
+    "rsdBaseFilenames" : [ "HKEB", "HKEE" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "bone_2",
+    "length" : 9.329111,
+    "rsdBaseFilenames" : [ "HKFB" ],
+    "parentBoneName" : "bone_1"
+  } ]
+}

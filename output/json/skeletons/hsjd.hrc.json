@@ -1,0 +1,178 @@
+{
+  "name" : "ultima_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "dou",
+    "length" : 60.416496,
+    "rsdBaseFilenames" : [ "HSJE", "HTAA" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "mune",
+    "length" : 56.523888,
+    "rsdBaseFilenames" : [ "HTAC" ],
+    "parentBoneName" : "dou"
+  }, {
+    "boneIndex" : 2,
+    "name" : "atama",
+    "length" : 18.858303,
+    "rsdBaseFilenames" : [ "HTAE", "HTBA" ],
+    "parentBoneName" : "mune"
+  }, {
+    "boneIndex" : 3,
+    "name" : "non5",
+    "length" : 62.60011,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "dou"
+  }, {
+    "boneIndex" : 4,
+    "name" : "lhane",
+    "length" : 76.19505,
+    "rsdBaseFilenames" : [ "HTBC" ],
+    "parentBoneName" : "non5"
+  }, {
+    "boneIndex" : 5,
+    "name" : "lhane2",
+    "length" : 151.39964,
+    "rsdBaseFilenames" : [ "HTBE" ],
+    "parentBoneName" : "lhane"
+  }, {
+    "boneIndex" : 6,
+    "name" : "non6",
+    "length" : 62.60011,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "dou"
+  }, {
+    "boneIndex" : 7,
+    "name" : "rhane",
+    "length" : 76.19505,
+    "rsdBaseFilenames" : [ "HTCA" ],
+    "parentBoneName" : "non6"
+  }, {
+    "boneIndex" : 8,
+    "name" : "rhane2",
+    "length" : 151.39964,
+    "rsdBaseFilenames" : [ "HTCC" ],
+    "parentBoneName" : "rhane"
+  }, {
+    "boneIndex" : 9,
+    "name" : "non7",
+    "length" : 53.78508,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "dou"
+  }, {
+    "boneIndex" : 10,
+    "name" : "lkata",
+    "length" : 39.31608,
+    "rsdBaseFilenames" : [ "HTCE" ],
+    "parentBoneName" : "non7"
+  }, {
+    "boneIndex" : 11,
+    "name" : "lude",
+    "length" : 101.16349,
+    "rsdBaseFilenames" : [ "HTDA" ],
+    "parentBoneName" : "lkata"
+  }, {
+    "boneIndex" : 12,
+    "name" : "non8",
+    "length" : 53.78508,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "dou"
+  }, {
+    "boneIndex" : 13,
+    "name" : "rkata",
+    "length" : 39.31608,
+    "rsdBaseFilenames" : [ "HTDC" ],
+    "parentBoneName" : "non8"
+  }, {
+    "boneIndex" : 14,
+    "name" : "rude",
+    "length" : 101.16349,
+    "rsdBaseFilenames" : [ "HTDE" ],
+    "parentBoneName" : "rkata"
+  }, {
+    "boneIndex" : 15,
+    "name" : "hip",
+    "length" : 163.9243,
+    "rsdBaseFilenames" : [ "HTEA" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 16,
+    "name" : "o1",
+    "length" : 153.64972,
+    "rsdBaseFilenames" : [ "HTEC" ],
+    "parentBoneName" : "hip"
+  }, {
+    "boneIndex" : 17,
+    "name" : "o2",
+    "length" : 154.96982,
+    "rsdBaseFilenames" : [ "HTEE" ],
+    "parentBoneName" : "o1"
+  }, {
+    "boneIndex" : 18,
+    "name" : "non1",
+    "length" : 57.171745,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 19,
+    "name" : "lmomo2",
+    "length" : 59.431324,
+    "rsdBaseFilenames" : [ "HTFA" ],
+    "parentBoneName" : "non1"
+  }, {
+    "boneIndex" : 20,
+    "name" : "lasi2",
+    "length" : 41.6168,
+    "rsdBaseFilenames" : [ "HTFC" ],
+    "parentBoneName" : "lmomo2"
+  }, {
+    "boneIndex" : 21,
+    "name" : "non2",
+    "length" : 57.171745,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 22,
+    "name" : "rmomo2",
+    "length" : 59.431324,
+    "rsdBaseFilenames" : [ "HTFE" ],
+    "parentBoneName" : "non2"
+  }, {
+    "boneIndex" : 23,
+    "name" : "rasi2",
+    "length" : 41.6168,
+    "rsdBaseFilenames" : [ "HTGA" ],
+    "parentBoneName" : "rmomo2"
+  }, {
+    "boneIndex" : 24,
+    "name" : "non33",
+    "length" : 37.023342,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 25,
+    "name" : "lasi1",
+    "length" : 55.77755,
+    "rsdBaseFilenames" : [ "HTGC" ],
+    "parentBoneName" : "non33"
+  }, {
+    "boneIndex" : 26,
+    "name" : "non4",
+    "length" : 43.14128,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 27,
+    "name" : "rmomo1",
+    "length" : 37.889854,
+    "rsdBaseFilenames" : [ "HTGE" ],
+    "parentBoneName" : "non4"
+  }, {
+    "boneIndex" : 28,
+    "name" : "rasi1",
+    "length" : 55.777565,
+    "rsdBaseFilenames" : [ "HTHA" ],
+    "parentBoneName" : "rmomo1"
+  } ]
+}

@@ -1,0 +1,16 @@
+{
+  "name" : "jeno_arm_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "bone_1",
+    "length" : 13.02046,
+    "rsdBaseFilenames" : [ "FKCB" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "bone_2",
+    "length" : 12.042715,
+    "rsdBaseFilenames" : [ "FKCD" ],
+    "parentBoneName" : "root"
+  } ]
+}

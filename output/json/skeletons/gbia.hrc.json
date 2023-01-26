@@ -1,0 +1,94 @@
+{
+  "name" : "costum_st",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "bone_13",
+    "length" : 3.2364213,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "bone_14",
+    "length" : 8.229228,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "bone_13"
+  }, {
+    "boneIndex" : 2,
+    "name" : "bone_15",
+    "length" : 6.505935,
+    "rsdBaseFilenames" : [ "GBIB" ],
+    "parentBoneName" : "bone_14"
+  }, {
+    "boneIndex" : 3,
+    "name" : "bone_17",
+    "length" : 3.2364213,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 4,
+    "name" : "bone_18",
+    "length" : 8.229228,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "bone_17"
+  }, {
+    "boneIndex" : 5,
+    "name" : "bone_19",
+    "length" : 6.505935,
+    "rsdBaseFilenames" : [ "GBID" ],
+    "parentBoneName" : "bone_18"
+  }, {
+    "boneIndex" : 6,
+    "name" : "bone_3",
+    "length" : 2.8161497,
+    "rsdBaseFilenames" : [ "GBIF" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 7,
+    "name" : "bone_2",
+    "length" : 7.342554,
+    "rsdBaseFilenames" : [ "GBJB" ],
+    "parentBoneName" : "bone_3"
+  }, {
+    "boneIndex" : 8,
+    "name" : "bone_1",
+    "length" : 8.361919,
+    "rsdBaseFilenames" : [ "GBJD" ],
+    "parentBoneName" : "bone_2"
+  }, {
+    "boneIndex" : 9,
+    "name" : "bone_5",
+    "length" : 7.3424673,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "bone_3"
+  }, {
+    "boneIndex" : 10,
+    "name" : "bone_6",
+    "length" : 2.5501728,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "bone_5"
+  }, {
+    "boneIndex" : 11,
+    "name" : "bone_7",
+    "length" : 9.267359,
+    "rsdBaseFilenames" : [ "GBJF" ],
+    "parentBoneName" : "bone_6"
+  }, {
+    "boneIndex" : 12,
+    "name" : "bone_9",
+    "length" : 7.3859744,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "bone_3"
+  }, {
+    "boneIndex" : 13,
+    "name" : "bone_10",
+    "length" : 2.5501733,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "bone_9"
+  }, {
+    "boneIndex" : 14,
+    "name" : "bone_11",
+    "length" : 9.267359,
+    "rsdBaseFilenames" : [ "GCAB" ],
+    "parentBoneName" : "bone_10"
+  } ]
+}

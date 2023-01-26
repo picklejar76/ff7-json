@@ -1,0 +1,16 @@
+{
+  "name" : "trbox_k_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "bone_1",
+    "length" : 10.908113,
+    "rsdBaseFilenames" : [ "HJGB" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "bone_2",
+    "length" : 7.680478,
+    "rsdBaseFilenames" : [ "HJGE" ],
+    "parentBoneName" : "bone_1"
+  } ]
+}

@@ -1,0 +1,172 @@
+{
+  "name" : "cat2_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "dou1",
+    "length" : 1.6599089,
+    "rsdBaseFilenames" : [ "EZCD" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "kubi",
+    "length" : 0.8150815,
+    "rsdBaseFilenames" : [ "EZCF" ],
+    "parentBoneName" : "dou1"
+  }, {
+    "boneIndex" : 2,
+    "name" : "atama",
+    "length" : 0.83045864,
+    "rsdBaseFilenames" : [ "EZDB" ],
+    "parentBoneName" : "kubi"
+  }, {
+    "boneIndex" : 3,
+    "name" : "ago",
+    "length" : 0.39341187,
+    "rsdBaseFilenames" : [ "EZDD" ],
+    "parentBoneName" : "atama"
+  }, {
+    "boneIndex" : 4,
+    "name" : "non1",
+    "length" : 0.9323341,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "dou1"
+  }, {
+    "boneIndex" : 5,
+    "name" : "l_kata",
+    "length" : 1.3536484,
+    "rsdBaseFilenames" : [ "EZDF" ],
+    "parentBoneName" : "non1"
+  }, {
+    "boneIndex" : 6,
+    "name" : "l_ude",
+    "length" : 0.86473227,
+    "rsdBaseFilenames" : [ "EZEB" ],
+    "parentBoneName" : "l_kata"
+  }, {
+    "boneIndex" : 7,
+    "name" : "l_te",
+    "length" : 0.72784734,
+    "rsdBaseFilenames" : [ "EZED" ],
+    "parentBoneName" : "l_ude"
+  }, {
+    "boneIndex" : 8,
+    "name" : "l_teyubi",
+    "length" : 0.48149148,
+    "rsdBaseFilenames" : [ "EZEF" ],
+    "parentBoneName" : "l_te"
+  }, {
+    "boneIndex" : 9,
+    "name" : "non2",
+    "length" : 0.9323341,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "dou1"
+  }, {
+    "boneIndex" : 10,
+    "name" : "r_kata",
+    "length" : 1.3536484,
+    "rsdBaseFilenames" : [ "EZFB" ],
+    "parentBoneName" : "non2"
+  }, {
+    "boneIndex" : 11,
+    "name" : "r_ude",
+    "length" : 0.86473227,
+    "rsdBaseFilenames" : [ "EZFD" ],
+    "parentBoneName" : "r_kata"
+  }, {
+    "boneIndex" : 12,
+    "name" : "r_te",
+    "length" : 0.72784734,
+    "rsdBaseFilenames" : [ "EZFF" ],
+    "parentBoneName" : "r_ude"
+  }, {
+    "boneIndex" : 13,
+    "name" : "r_teyubi",
+    "length" : 0.48149148,
+    "rsdBaseFilenames" : [ "EZGB" ],
+    "parentBoneName" : "r_te"
+  }, {
+    "boneIndex" : 14,
+    "name" : "dou2",
+    "length" : 1.6024027,
+    "rsdBaseFilenames" : [ "EZGD" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 15,
+    "name" : "o1",
+    "length" : 1.2863629,
+    "rsdBaseFilenames" : [ "EZGF" ],
+    "parentBoneName" : "dou2"
+  }, {
+    "boneIndex" : 16,
+    "name" : "o2",
+    "length" : 1.2771511,
+    "rsdBaseFilenames" : [ "EZHB" ],
+    "parentBoneName" : "o1"
+  }, {
+    "boneIndex" : 17,
+    "name" : "o3",
+    "length" : 1.5619249,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "o2"
+  }, {
+    "boneIndex" : 18,
+    "name" : "non3",
+    "length" : 1.5380938,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 19,
+    "name" : "l_momo",
+    "length" : 1.3452737,
+    "rsdBaseFilenames" : [ "EZHD" ],
+    "parentBoneName" : "non3"
+  }, {
+    "boneIndex" : 20,
+    "name" : "l_sune",
+    "length" : 0.8108554,
+    "rsdBaseFilenames" : [ "EZHF" ],
+    "parentBoneName" : "l_momo"
+  }, {
+    "boneIndex" : 21,
+    "name" : "l_asi",
+    "length" : 0.9703251,
+    "rsdBaseFilenames" : [ "EZIB" ],
+    "parentBoneName" : "l_sune"
+  }, {
+    "boneIndex" : 22,
+    "name" : "l_asiyub",
+    "length" : 0.46124983,
+    "rsdBaseFilenames" : [ "EZID" ],
+    "parentBoneName" : "l_asi"
+  }, {
+    "boneIndex" : 23,
+    "name" : "non4",
+    "length" : 1.5380938,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 24,
+    "name" : "r_momo",
+    "length" : 1.3452737,
+    "rsdBaseFilenames" : [ "EZIF" ],
+    "parentBoneName" : "non4"
+  }, {
+    "boneIndex" : 25,
+    "name" : "r_sune",
+    "length" : 0.8108554,
+    "rsdBaseFilenames" : [ "EZJB" ],
+    "parentBoneName" : "r_momo"
+  }, {
+    "boneIndex" : 26,
+    "name" : "r_asi",
+    "length" : 0.9703251,
+    "rsdBaseFilenames" : [ "EZJD" ],
+    "parentBoneName" : "r_sune"
+  }, {
+    "boneIndex" : 27,
+    "name" : "r_asiyub",
+    "length" : 0.46124983,
+    "rsdBaseFilenames" : [ "EZJF" ],
+    "parentBoneName" : "r_asi"
+  } ]
+}

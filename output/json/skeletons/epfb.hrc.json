@@ -1,0 +1,178 @@
+{
+  "name" : "nibl_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "hara",
+    "length" : 7.864864,
+    "rsdBaseFilenames" : [ "EPFC" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "mune",
+    "length" : 11.017257,
+    "rsdBaseFilenames" : [ "EPFE" ],
+    "parentBoneName" : "hara"
+  }, {
+    "boneIndex" : 2,
+    "name" : "kubi",
+    "length" : 5.7083597,
+    "rsdBaseFilenames" : [ "EPGA", "EPGC" ],
+    "parentBoneName" : "mune"
+  }, {
+    "boneIndex" : 3,
+    "name" : "lashi0f",
+    "length" : 14.006548,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "hara"
+  }, {
+    "boneIndex" : 4,
+    "name" : "lashi1f",
+    "length" : 14.962262,
+    "rsdBaseFilenames" : [ "EPGE" ],
+    "parentBoneName" : "lashi0f"
+  }, {
+    "boneIndex" : 5,
+    "name" : "lashi2f",
+    "length" : 31.00856,
+    "rsdBaseFilenames" : [ "EPHA" ],
+    "parentBoneName" : "lashi1f"
+  }, {
+    "boneIndex" : 6,
+    "name" : "rashi0f",
+    "length" : 14.006548,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "hara"
+  }, {
+    "boneIndex" : 7,
+    "name" : "rashi1f",
+    "length" : 14.962262,
+    "rsdBaseFilenames" : [ "EPHC" ],
+    "parentBoneName" : "rashi0f"
+  }, {
+    "boneIndex" : 8,
+    "name" : "rashi2f",
+    "length" : 31.00856,
+    "rsdBaseFilenames" : [ "EPHE" ],
+    "parentBoneName" : "rashi1f"
+  }, {
+    "boneIndex" : 9,
+    "name" : "lashi0b",
+    "length" : 11.778915,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 10,
+    "name" : "lashi1b",
+    "length" : 23.670856,
+    "rsdBaseFilenames" : [ "EPIA" ],
+    "parentBoneName" : "lashi0b"
+  }, {
+    "boneIndex" : 11,
+    "name" : "lashi2b",
+    "length" : 33.205933,
+    "rsdBaseFilenames" : [ "EPIC" ],
+    "parentBoneName" : "lashi1b"
+  }, {
+    "boneIndex" : 12,
+    "name" : "lashi0m",
+    "length" : 8.135253,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 13,
+    "name" : "lashi1m",
+    "length" : 18.979324,
+    "rsdBaseFilenames" : [ "EPIE" ],
+    "parentBoneName" : "lashi0m"
+  }, {
+    "boneIndex" : 14,
+    "name" : "lashi2m",
+    "length" : 31.776976,
+    "rsdBaseFilenames" : [ "EPJA" ],
+    "parentBoneName" : "lashi1m"
+  }, {
+    "boneIndex" : 15,
+    "name" : "lo0",
+    "length" : 12.40036,
+    "rsdBaseFilenames" : [ "EPJC" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 16,
+    "name" : "lo1",
+    "length" : 17.291925,
+    "rsdBaseFilenames" : [ "EPJE" ],
+    "parentBoneName" : "lo0"
+  }, {
+    "boneIndex" : 17,
+    "name" : "lo3",
+    "length" : 33.06966,
+    "rsdBaseFilenames" : [ "EQAA" ],
+    "parentBoneName" : "lo1"
+  }, {
+    "boneIndex" : 18,
+    "name" : "lo4",
+    "length" : 33.495033,
+    "rsdBaseFilenames" : [ "EQAC" ],
+    "parentBoneName" : "lo3"
+  }, {
+    "boneIndex" : 19,
+    "name" : "rashi0b",
+    "length" : 11.778915,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 20,
+    "name" : "rashi1b",
+    "length" : 23.670856,
+    "rsdBaseFilenames" : [ "EQAE" ],
+    "parentBoneName" : "rashi0b"
+  }, {
+    "boneIndex" : 21,
+    "name" : "rashi2b",
+    "length" : 33.205933,
+    "rsdBaseFilenames" : [ "EQBA" ],
+    "parentBoneName" : "rashi1b"
+  }, {
+    "boneIndex" : 22,
+    "name" : "rashi0m",
+    "length" : 8.135253,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 23,
+    "name" : "rashi1m",
+    "length" : 18.979324,
+    "rsdBaseFilenames" : [ "EQBC" ],
+    "parentBoneName" : "rashi0m"
+  }, {
+    "boneIndex" : 24,
+    "name" : "rashi2m",
+    "length" : 31.776976,
+    "rsdBaseFilenames" : [ "EQBE" ],
+    "parentBoneName" : "rashi1m"
+  }, {
+    "boneIndex" : 25,
+    "name" : "ro0",
+    "length" : 12.40036,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 26,
+    "name" : "ro1",
+    "length" : 17.291925,
+    "rsdBaseFilenames" : [ "EQCA" ],
+    "parentBoneName" : "ro0"
+  }, {
+    "boneIndex" : 27,
+    "name" : "ro3",
+    "length" : 33.06966,
+    "rsdBaseFilenames" : [ "EQCC" ],
+    "parentBoneName" : "ro1"
+  }, {
+    "boneIndex" : 28,
+    "name" : "ro4",
+    "length" : 33.495033,
+    "rsdBaseFilenames" : [ "EQCE" ],
+    "parentBoneName" : "ro3"
+  } ]
+}

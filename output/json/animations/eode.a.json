@@ -1,0 +1,969 @@
+{
+  "version" : 1,
+  "numFrames" : 80,
+  "numBones" : 0,
+  "rotationOrder1" : 1,
+  "rotationOrder2" : 0,
+  "rotationOrder3" : 2,
+  "animationFrames" : [ {
+    "rootRotation" : {
+      "x" : 89.64844,
+      "y" : 265.4297,
+      "z" : 85.25391
+    },
+    "rootTranslation" : {
+      "x" : -59.21345,
+      "y" : 7.7175264,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 89.47266,
+      "y" : 267.45117,
+      "z" : 87.27539
+    },
+    "rootTranslation" : {
+      "x" : -59.28839,
+      "y" : 10.803888,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 89.12109,
+      "y" : 268.50586,
+      "z" : 88.33008
+    },
+    "rootTranslation" : {
+      "x" : -59.408005,
+      "y" : 13.953015,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 88.59375,
+      "y" : 269.1211,
+      "z" : 88.94531
+    },
+    "rootTranslation" : {
+      "x" : -59.567974,
+      "y" : 17.158833,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 87.978516,
+      "y" : 269.38477,
+      "z" : 89.296875
+    },
+    "rootTranslation" : {
+      "x" : -59.763966,
+      "y" : 20.415266,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 87.36328,
+      "y" : 269.64844,
+      "z" : 89.47266
+    },
+    "rootTranslation" : {
+      "x" : -59.991665,
+      "y" : 23.716242,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 86.572266,
+      "y" : 269.73633,
+      "z" : 89.56055
+    },
+    "rootTranslation" : {
+      "x" : -60.24675,
+      "y" : 27.055683,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 85.69336,
+      "y" : 269.82422,
+      "z" : 89.64844
+    },
+    "rootTranslation" : {
+      "x" : -60.524887,
+      "y" : 30.42752,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 84.81445,
+      "y" : 269.9121,
+      "z" : 89.73633
+    },
+    "rootTranslation" : {
+      "x" : -60.821762,
+      "y" : 33.82568,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 83.84766,
+      "y" : 269.9121,
+      "z" : 89.73633
+    },
+    "rootTranslation" : {
+      "x" : -61.133045,
+      "y" : 37.244087,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 82.88086,
+      "y" : 269.9121,
+      "z" : 89.82422
+    },
+    "rootTranslation" : {
+      "x" : -61.454422,
+      "y" : 40.67666,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 81.91406,
+      "y" : 270.0,
+      "z" : 89.82422
+    },
+    "rootTranslation" : {
+      "x" : -61.78156,
+      "y" : 44.117336,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 80.859375,
+      "y" : 270.0,
+      "z" : 89.82422
+    },
+    "rootTranslation" : {
+      "x" : -62.110138,
+      "y" : 47.560036,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 79.89258,
+      "y" : 270.0,
+      "z" : 89.82422
+    },
+    "rootTranslation" : {
+      "x" : -62.43583,
+      "y" : 50.998688,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 78.92578,
+      "y" : 270.0,
+      "z" : 89.82422
+    },
+    "rootTranslation" : {
+      "x" : -62.75433,
+      "y" : 54.427216,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 77.958984,
+      "y" : 270.0,
+      "z" : 89.91211
+    },
+    "rootTranslation" : {
+      "x" : -63.06129,
+      "y" : 57.839546,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 77.08008,
+      "y" : 270.0,
+      "z" : 89.91211
+    },
+    "rootTranslation" : {
+      "x" : -63.352394,
+      "y" : 61.229603,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 76.28906,
+      "y" : 270.0879,
+      "z" : 89.91211
+    },
+    "rootTranslation" : {
+      "x" : -63.623333,
+      "y" : 64.591324,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 75.49805,
+      "y" : 270.0879,
+      "z" : 89.91211
+    },
+    "rootTranslation" : {
+      "x" : -63.869766,
+      "y" : 67.91862,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 74.88281,
+      "y" : 270.0879,
+      "z" : 89.91211
+    },
+    "rootTranslation" : {
+      "x" : -64.08738,
+      "y" : 71.20542,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 74.26758,
+      "y" : 270.0879,
+      "z" : 89.91211
+    },
+    "rootTranslation" : {
+      "x" : -64.27184,
+      "y" : 74.44565,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 73.828125,
+      "y" : 270.0879,
+      "z" : 89.91211
+    },
+    "rootTranslation" : {
+      "x" : -64.41884,
+      "y" : 77.633255,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 73.56445,
+      "y" : 270.0879,
+      "z" : 89.91211
+    },
+    "rootTranslation" : {
+      "x" : -64.52404,
+      "y" : 80.76213,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 73.38867,
+      "y" : 270.0879,
+      "z" : 89.91211
+    },
+    "rootTranslation" : {
+      "x" : -64.58313,
+      "y" : 83.826225,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 73.30078,
+      "y" : 270.0879,
+      "z" : 89.91211
+    },
+    "rootTranslation" : {
+      "x" : -64.59178,
+      "y" : 86.81944,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 73.47656,
+      "y" : 270.0879,
+      "z" : 89.91211
+    },
+    "rootTranslation" : {
+      "x" : -64.545654,
+      "y" : 89.73575,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 73.740234,
+      "y" : 270.0879,
+      "z" : 89.91211
+    },
+    "rootTranslation" : {
+      "x" : -64.44045,
+      "y" : 92.56903,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 74.26758,
+      "y" : 270.0879,
+      "z" : 89.91211
+    },
+    "rootTranslation" : {
+      "x" : -64.27184,
+      "y" : 95.31322,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 74.9707,
+      "y" : 270.0879,
+      "z" : 89.91211
+    },
+    "rootTranslation" : {
+      "x" : -64.03549,
+      "y" : 97.96226,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 75.9375,
+      "y" : 270.0879,
+      "z" : 89.91211
+    },
+    "rootTranslation" : {
+      "x" : -63.727093,
+      "y" : 100.51007,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 77.08008,
+      "y" : 270.0,
+      "z" : 89.91211
+    },
+    "rootTranslation" : {
+      "x" : -63.342308,
+      "y" : 102.95057,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 78.57422,
+      "y" : 270.0,
+      "z" : 89.91211
+    },
+    "rootTranslation" : {
+      "x" : -62.87682,
+      "y" : 105.27768,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 80.24414,
+      "y" : 270.0,
+      "z" : 89.82422
+    },
+    "rootTranslation" : {
+      "x" : -62.3263,
+      "y" : 107.48535,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 82.177734,
+      "y" : 270.0,
+      "z" : 89.82422
+    },
+    "rootTranslation" : {
+      "x" : -61.68644,
+      "y" : 109.56748,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 84.375,
+      "y" : 269.9121,
+      "z" : 89.73633
+    },
+    "rootTranslation" : {
+      "x" : -60.9529,
+      "y" : 111.51801,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 86.92383,
+      "y" : 269.64844,
+      "z" : 89.56055
+    },
+    "rootTranslation" : {
+      "x" : -60.12136,
+      "y" : 113.33088,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 89.73633,
+      "y" : 263.84766,
+      "z" : 83.671875
+    },
+    "rootTranslation" : {
+      "x" : -59.187508,
+      "y" : 114.999985,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 86.83594,
+      "y" : 90.615234,
+      "z" : 270.43945
+    },
+    "rootTranslation" : {
+      "x" : -58.041092,
+      "y" : 116.52008,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 82.61719,
+      "y" : 90.35156,
+      "z" : 270.17578
+    },
+    "rootTranslation" : {
+      "x" : -56.591278,
+      "y" : 117.88598,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 77.60742,
+      "y" : 90.26367,
+      "z" : 270.0879
+    },
+    "rootTranslation" : {
+      "x" : -54.862885,
+      "y" : 119.09173,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 71.98242,
+      "y" : 90.26367,
+      "z" : 270.0879
+    },
+    "rootTranslation" : {
+      "x" : -52.880726,
+      "y" : 120.13139,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 65.74219,
+      "y" : 90.17578,
+      "z" : 270.0879
+    },
+    "rootTranslation" : {
+      "x" : -50.66961,
+      "y" : 120.99901,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 58.88672,
+      "y" : 90.17578,
+      "z" : 270.0879
+    },
+    "rootTranslation" : {
+      "x" : -48.25434,
+      "y" : 121.68862,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 51.503906,
+      "y" : 90.17578,
+      "z" : 270.0
+    },
+    "rootTranslation" : {
+      "x" : -45.65973,
+      "y" : 122.194305,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 43.68164,
+      "y" : 90.17578,
+      "z" : 270.0
+    },
+    "rootTranslation" : {
+      "x" : -42.910583,
+      "y" : 122.51008,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 35.507812,
+      "y" : 90.17578,
+      "z" : 270.0
+    },
+    "rootTranslation" : {
+      "x" : -40.03172,
+      "y" : 122.630005,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 26.894531,
+      "y" : 90.17578,
+      "z" : 270.0
+    },
+    "rootTranslation" : {
+      "x" : -37.04793,
+      "y" : 122.54813,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 18.105469,
+      "y" : 90.17578,
+      "z" : 270.0
+    },
+    "rootTranslation" : {
+      "x" : -33.98405,
+      "y" : 122.25851,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 8.964844,
+      "y" : 90.17578,
+      "z" : 270.0
+    },
+    "rootTranslation" : {
+      "x" : -30.864876,
+      "y" : 121.75519,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 359.73633,
+      "y" : 90.17578,
+      "z" : 270.0
+    },
+    "rootTranslation" : {
+      "x" : -27.715218,
+      "y" : 121.03221,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 350.33203,
+      "y" : 90.17578,
+      "z" : 270.0
+    },
+    "rootTranslation" : {
+      "x" : -24.559872,
+      "y" : 120.08363,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 340.92773,
+      "y" : 90.17578,
+      "z" : 270.0
+    },
+    "rootTranslation" : {
+      "x" : -21.423672,
+      "y" : 118.903496,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 331.52344,
+      "y" : 90.17578,
+      "z" : 270.0
+    },
+    "rootTranslation" : {
+      "x" : -18.331413,
+      "y" : 117.48588,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 322.11914,
+      "y" : 90.17578,
+      "z" : 270.0
+    },
+    "rootTranslation" : {
+      "x" : -15.307909,
+      "y" : 115.82478,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 312.80273,
+      "y" : 90.08789,
+      "z" : 270.0
+    },
+    "rootTranslation" : {
+      "x" : -12.377958,
+      "y" : 113.9143,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 303.75,
+      "y" : 90.08789,
+      "z" : 270.0879
+    },
+    "rootTranslation" : {
+      "x" : -9.566391,
+      "y" : 111.74845,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 294.87305,
+      "y" : 90.08789,
+      "z" : 270.0879
+    },
+    "rootTranslation" : {
+      "x" : -6.897999,
+      "y" : 109.32131,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 286.25977,
+      "y" : 90.08789,
+      "z" : 270.0879
+    },
+    "rootTranslation" : {
+      "x" : -4.397606,
+      "y" : 106.62692,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 277.99805,
+      "y" : 90.0,
+      "z" : 270.17578
+    },
+    "rootTranslation" : {
+      "x" : -2.0899887,
+      "y" : 103.65929,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 270.0879,
+      "y" : 76.640625,
+      "z" : 283.53516
+    },
+    "rootTranslation" : {
+      "x" : -3.8146973E-6,
+      "y" : 100.41254,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 278.4375,
+      "y" : 270.35156,
+      "z" : 89.82422
+    },
+    "rootTranslation" : {
+      "x" : 1.4494892,
+      "y" : 94.06725,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 288.10547,
+      "y" : 270.26367,
+      "z" : 89.91211
+    },
+    "rootTranslation" : {
+      "x" : 2.0131805,
+      "y" : 82.91762,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 298.0371,
+      "y" : 270.17578,
+      "z" : 89.91211
+    },
+    "rootTranslation" : {
+      "x" : 1.9326547,
+      "y" : 68.627785,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 307.00195,
+      "y" : 270.17578,
+      "z" : 90.0
+    },
+    "rootTranslation" : {
+      "x" : 1.4494877,
+      "y" : 52.861824,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 314.29688,
+      "y" : 270.17578,
+      "z" : 90.0
+    },
+    "rootTranslation" : {
+      "x" : 0.8052697,
+      "y" : 37.28413,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 318.7793,
+      "y" : 270.17578,
+      "z" : 90.0
+    },
+    "rootTranslation" : {
+      "x" : 0.24158001,
+      "y" : 23.558792,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 319.48242,
+      "y" : 270.17578,
+      "z" : 90.0
+    },
+    "rootTranslation" : {
+      "x" : 0.0,
+      "y" : 13.349976,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 312.2754,
+      "y" : 270.17578,
+      "z" : 90.0
+    },
+    "rootTranslation" : {
+      "x" : 0.0,
+      "y" : 7.6523733,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 296.80664,
+      "y" : 270.17578,
+      "z" : 89.91211
+    },
+    "rootTranslation" : {
+      "x" : 0.0,
+      "y" : 5.4246044,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 278.26172,
+      "y" : 270.35156,
+      "z" : 89.82422
+    },
+    "rootTranslation" : {
+      "x" : 0.0,
+      "y" : 5.276901,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 278.26172,
+      "y" : 90.0,
+      "z" : 270.17578
+    },
+    "rootTranslation" : {
+      "x" : 0.0,
+      "y" : 5.8194704,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 287.57812,
+      "y" : 90.08789,
+      "z" : 270.0879
+    },
+    "rootTranslation" : {
+      "x" : 0.0,
+      "y" : 5.662508,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 287.7539,
+      "y" : 90.08789,
+      "z" : 270.0879
+    },
+    "rootTranslation" : {
+      "x" : 0.0,
+      "y" : 4.9456573,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 282.2168,
+      "y" : 90.0,
+      "z" : 270.0879
+    },
+    "rootTranslation" : {
+      "x" : 0.0,
+      "y" : 4.5954576,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 273.8672,
+      "y" : 89.73633,
+      "z" : 270.35156
+    },
+    "rootTranslation" : {
+      "x" : 0.0,
+      "y" : 4.4024324,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 274.21875,
+      "y" : 270.52734,
+      "z" : 89.64844
+    },
+    "rootTranslation" : {
+      "x" : 0.0,
+      "y" : 4.1571064,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 279.05273,
+      "y" : 270.35156,
+      "z" : 89.82422
+    },
+    "rootTranslation" : {
+      "x" : 0.0,
+      "y" : 3.6500063,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 278.26172,
+      "y" : 270.35156,
+      "z" : 89.82422
+    },
+    "rootTranslation" : {
+      "x" : 0.0,
+      "y" : 2.6594987,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 274.13086,
+      "y" : 270.52734,
+      "z" : 89.64844
+    },
+    "rootTranslation" : {
+      "x" : 0.0,
+      "y" : 1.3297447,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  }, {
+    "rootRotation" : {
+      "x" : 270.0879,
+      "y" : 76.640625,
+      "z" : 283.53516
+    },
+    "rootTranslation" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "z" : 0.0
+    },
+    "boneRotations" : [ ]
+  } ]
+}

@@ -1,0 +1,160 @@
+{
+  "name" : "demon_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "body",
+    "length" : 53.20746,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "none1",
+    "length" : 44.609524,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "body"
+  }, {
+    "boneIndex" : 2,
+    "name" : "r_foarm",
+    "length" : 31.66738,
+    "rsdBaseFilenames" : [ "HKJD" ],
+    "parentBoneName" : "none1"
+  }, {
+    "boneIndex" : 3,
+    "name" : "r_hand",
+    "length" : 9.287434,
+    "rsdBaseFilenames" : [ "HKJF" ],
+    "parentBoneName" : "r_foarm"
+  }, {
+    "boneIndex" : 4,
+    "name" : "none7",
+    "length" : 8.3570385,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "r_hand"
+  }, {
+    "boneIndex" : 5,
+    "name" : "r_fin3",
+    "length" : 12.73856,
+    "rsdBaseFilenames" : [ "HLAB" ],
+    "parentBoneName" : "none7"
+  }, {
+    "boneIndex" : 6,
+    "name" : "none8",
+    "length" : 3.0499456,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "r_hand"
+  }, {
+    "boneIndex" : 7,
+    "name" : "r_fin2",
+    "length" : 15.181957,
+    "rsdBaseFilenames" : [ "HLAD" ],
+    "parentBoneName" : "none8"
+  }, {
+    "boneIndex" : 8,
+    "name" : "none9",
+    "length" : 3.0191362,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "r_hand"
+  }, {
+    "boneIndex" : 9,
+    "name" : "r_fin1",
+    "length" : 15.181957,
+    "rsdBaseFilenames" : [ "HLAF" ],
+    "parentBoneName" : "none9"
+  }, {
+    "boneIndex" : 10,
+    "name" : "none2",
+    "length" : 55.39983,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "body"
+  }, {
+    "boneIndex" : 11,
+    "name" : "l_foarm",
+    "length" : 31.66738,
+    "rsdBaseFilenames" : [ "HLBB" ],
+    "parentBoneName" : "none2"
+  }, {
+    "boneIndex" : 12,
+    "name" : "l_hand",
+    "length" : 9.287434,
+    "rsdBaseFilenames" : [ "HLBD" ],
+    "parentBoneName" : "l_foarm"
+  }, {
+    "boneIndex" : 13,
+    "name" : "none4",
+    "length" : 8.357038,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "l_hand"
+  }, {
+    "boneIndex" : 14,
+    "name" : "l_fin3",
+    "length" : 12.73856,
+    "rsdBaseFilenames" : [ "HLBF" ],
+    "parentBoneName" : "none4"
+  }, {
+    "boneIndex" : 15,
+    "name" : "none5",
+    "length" : 3.0499449,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "l_hand"
+  }, {
+    "boneIndex" : 16,
+    "name" : "l_fin2",
+    "length" : 15.181957,
+    "rsdBaseFilenames" : [ "HLCB" ],
+    "parentBoneName" : "none5"
+  }, {
+    "boneIndex" : 17,
+    "name" : "none6",
+    "length" : 3.0191355,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "l_hand"
+  }, {
+    "boneIndex" : 18,
+    "name" : "l_fin1",
+    "length" : 15.181957,
+    "rsdBaseFilenames" : [ "HLCD" ],
+    "parentBoneName" : "none6"
+  }, {
+    "boneIndex" : 19,
+    "name" : "none3",
+    "length" : 21.458843,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "body"
+  }, {
+    "boneIndex" : 20,
+    "name" : "chest",
+    "length" : 28.15316,
+    "rsdBaseFilenames" : [ "HLCF", "HLDB" ],
+    "parentBoneName" : "none3"
+  }, {
+    "boneIndex" : 21,
+    "name" : "none10",
+    "length" : 7.433423,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "chest"
+  }, {
+    "boneIndex" : 22,
+    "name" : "kubi1",
+    "length" : 12.50502,
+    "rsdBaseFilenames" : [ "HLDD" ],
+    "parentBoneName" : "none10"
+  }, {
+    "boneIndex" : 23,
+    "name" : "kubi2",
+    "length" : 13.125824,
+    "rsdBaseFilenames" : [ "HLDF" ],
+    "parentBoneName" : "kubi1"
+  }, {
+    "boneIndex" : 24,
+    "name" : "head",
+    "length" : 7.924141,
+    "rsdBaseFilenames" : [ "HLEB", "HLED" ],
+    "parentBoneName" : "kubi2"
+  }, {
+    "boneIndex" : 25,
+    "name" : "ago",
+    "length" : 10.315906,
+    "rsdBaseFilenames" : [ "HLEF" ],
+    "parentBoneName" : "head"
+  } ]
+}

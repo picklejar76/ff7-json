@@ -1,0 +1,40 @@
+{
+  "name" : "cloak_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "jyoin1",
+    "length" : 6.9002953,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "join2",
+    "length" : 6.900296,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "jyoin1"
+  }, {
+    "boneIndex" : 2,
+    "name" : "usiro",
+    "length" : 3.461545,
+    "rsdBaseFilenames" : [ "EHHD" ],
+    "parentBoneName" : "join2"
+  }, {
+    "boneIndex" : 3,
+    "name" : "kosi",
+    "length" : 10.013894,
+    "rsdBaseFilenames" : [ "EHHF" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 4,
+    "name" : "mune",
+    "length" : 9.637809,
+    "rsdBaseFilenames" : [ "EHIB" ],
+    "parentBoneName" : "kosi"
+  }, {
+    "boneIndex" : 5,
+    "name" : "atama",
+    "length" : 5.311596,
+    "rsdBaseFilenames" : [ "EHID" ],
+    "parentBoneName" : "mune"
+  } ]
+}

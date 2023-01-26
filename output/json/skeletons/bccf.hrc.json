@@ -1,0 +1,106 @@
+{
+  "name" : "guid2_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "atama",
+    "length" : 7.595412,
+    "rsdBaseFilenames" : [ "BCDA" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "non1",
+    "length" : 15.252684,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "atama"
+  }, {
+    "boneIndex" : 2,
+    "name" : "hige",
+    "length" : 8.038475,
+    "rsdBaseFilenames" : [ "BCDC" ],
+    "parentBoneName" : "non1"
+  }, {
+    "boneIndex" : 3,
+    "name" : "kalada",
+    "length" : 13.226121,
+    "rsdBaseFilenames" : [ "BCDE" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 4,
+    "name" : "non2",
+    "length" : 4.8004355,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "kalada"
+  }, {
+    "boneIndex" : 5,
+    "name" : "l_momo",
+    "length" : 4.4227476,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "non2"
+  }, {
+    "boneIndex" : 6,
+    "name" : "l_asi",
+    "length" : 3.6235876,
+    "rsdBaseFilenames" : [ "BCEA" ],
+    "parentBoneName" : "l_momo"
+  }, {
+    "boneIndex" : 7,
+    "name" : "non3",
+    "length" : 4.8004355,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "kalada"
+  }, {
+    "boneIndex" : 8,
+    "name" : "r_momo",
+    "length" : 4.4227476,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "non3"
+  }, {
+    "boneIndex" : 9,
+    "name" : "r_asi",
+    "length" : 3.6235876,
+    "rsdBaseFilenames" : [ "BCEC" ],
+    "parentBoneName" : "r_momo"
+  }, {
+    "boneIndex" : 10,
+    "name" : "l_kata",
+    "length" : 8.154848,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 11,
+    "name" : "l_ude",
+    "length" : 8.006317,
+    "rsdBaseFilenames" : [ "BCEE" ],
+    "parentBoneName" : "l_kata"
+  }, {
+    "boneIndex" : 12,
+    "name" : "l_te",
+    "length" : 4.014099,
+    "rsdBaseFilenames" : [ "BCFA" ],
+    "parentBoneName" : "l_ude"
+  }, {
+    "boneIndex" : 13,
+    "name" : "r_kata",
+    "length" : 8.154848,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 14,
+    "name" : "r_ude",
+    "length" : 8.006317,
+    "rsdBaseFilenames" : [ "BCFC" ],
+    "parentBoneName" : "r_kata"
+  }, {
+    "boneIndex" : 15,
+    "name" : "r_te",
+    "length" : 2.3616211,
+    "rsdBaseFilenames" : [ "BCFE" ],
+    "parentBoneName" : "r_ude"
+  }, {
+    "boneIndex" : 16,
+    "name" : "tue",
+    "length" : 12.319189,
+    "rsdBaseFilenames" : [ "BCGA" ],
+    "parentBoneName" : "r_ude"
+  } ]
+}

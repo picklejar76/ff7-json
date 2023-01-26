@@ -1,0 +1,130 @@
+{
+  "name" : "semusi_st",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "hip",
+    "length" : 1.7783536,
+    "rsdBaseFilenames" : [ "GEHE" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "chest",
+    "length" : 8.138082,
+    "rsdBaseFilenames" : [ "GEIA" ],
+    "parentBoneName" : "hip"
+  }, {
+    "boneIndex" : 2,
+    "name" : "head",
+    "length" : 3.4286344,
+    "rsdBaseFilenames" : [ "GEIC" ],
+    "parentBoneName" : "chest"
+  }, {
+    "boneIndex" : 3,
+    "name" : "non1",
+    "length" : 6.0468683,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "hip"
+  }, {
+    "boneIndex" : 4,
+    "name" : "r_collar",
+    "length" : 3.2192438,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "non1"
+  }, {
+    "boneIndex" : 5,
+    "name" : "r_uparm",
+    "length" : 5.4862194,
+    "rsdBaseFilenames" : [ "GEJB" ],
+    "parentBoneName" : "r_collar"
+  }, {
+    "boneIndex" : 6,
+    "name" : "r_foarm",
+    "length" : 8.508704,
+    "rsdBaseFilenames" : [ "GEJD" ],
+    "parentBoneName" : "r_uparm"
+  }, {
+    "boneIndex" : 7,
+    "name" : "r_hand",
+    "length" : 2.122362,
+    "rsdBaseFilenames" : [ "GEJF" ],
+    "parentBoneName" : "r_foarm"
+  }, {
+    "boneIndex" : 8,
+    "name" : "non2",
+    "length" : 6.0468683,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "hip"
+  }, {
+    "boneIndex" : 9,
+    "name" : "l_collar",
+    "length" : 3.2192438,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "non2"
+  }, {
+    "boneIndex" : 10,
+    "name" : "l_uparm",
+    "length" : 5.4862194,
+    "rsdBaseFilenames" : [ "GFAB" ],
+    "parentBoneName" : "l_collar"
+  }, {
+    "boneIndex" : 11,
+    "name" : "l_foarm",
+    "length" : 8.508704,
+    "rsdBaseFilenames" : [ "GFAD" ],
+    "parentBoneName" : "l_uparm"
+  }, {
+    "boneIndex" : 12,
+    "name" : "l_hand",
+    "length" : 2.122362,
+    "rsdBaseFilenames" : [ "GFAF" ],
+    "parentBoneName" : "l_foarm"
+  }, {
+    "boneIndex" : 13,
+    "name" : "l_hip",
+    "length" : 1.6370047,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 14,
+    "name" : "l_femur",
+    "length" : 5.385395,
+    "rsdBaseFilenames" : [ "GFBB" ],
+    "parentBoneName" : "l_hip"
+  }, {
+    "boneIndex" : 15,
+    "name" : "l_tibia",
+    "length" : 5.146657,
+    "rsdBaseFilenames" : [ "GFBD" ],
+    "parentBoneName" : "l_femur"
+  }, {
+    "boneIndex" : 16,
+    "name" : "l_foot",
+    "length" : 6.125145,
+    "rsdBaseFilenames" : [ "GFBF" ],
+    "parentBoneName" : "l_tibia"
+  }, {
+    "boneIndex" : 17,
+    "name" : "r_hip",
+    "length" : 1.6370047,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 18,
+    "name" : "r_femur",
+    "length" : 5.385395,
+    "rsdBaseFilenames" : [ "GFCB" ],
+    "parentBoneName" : "r_hip"
+  }, {
+    "boneIndex" : 19,
+    "name" : "r_tibia",
+    "length" : 5.146657,
+    "rsdBaseFilenames" : [ "GFCD" ],
+    "parentBoneName" : "r_femur"
+  }, {
+    "boneIndex" : 20,
+    "name" : "r_foot",
+    "length" : 6.125145,
+    "rsdBaseFilenames" : [ "GFCF" ],
+    "parentBoneName" : "r_tibia"
+  } ]
+}

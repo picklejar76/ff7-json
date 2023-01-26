@@ -1,0 +1,76 @@
+{
+  "name" : "fish2_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "bone_11",
+    "length" : 5.9675503,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "bone_12",
+    "length" : 8.860457,
+    "rsdBaseFilenames" : [ "FGAF" ],
+    "parentBoneName" : "bone_11"
+  }, {
+    "boneIndex" : 2,
+    "name" : "bone_5",
+    "length" : 17.36731,
+    "rsdBaseFilenames" : [ "FGBB" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 3,
+    "name" : "bone_4",
+    "length" : 15.754291,
+    "rsdBaseFilenames" : [ "FGBD" ],
+    "parentBoneName" : "bone_5"
+  }, {
+    "boneIndex" : 4,
+    "name" : "bone_3",
+    "length" : 17.078598,
+    "rsdBaseFilenames" : [ "FGBF" ],
+    "parentBoneName" : "bone_4"
+  }, {
+    "boneIndex" : 5,
+    "name" : "bone_2",
+    "length" : 16.249302,
+    "rsdBaseFilenames" : [ "FGCB" ],
+    "parentBoneName" : "bone_3"
+  }, {
+    "boneIndex" : 6,
+    "name" : "bone_1",
+    "length" : 10.479099,
+    "rsdBaseFilenames" : [ "FGCD" ],
+    "parentBoneName" : "bone_2"
+  }, {
+    "boneIndex" : 7,
+    "name" : "bone_6",
+    "length" : 10.709299,
+    "rsdBaseFilenames" : [ "FGCF" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 8,
+    "name" : "bone_7",
+    "length" : 10.509001,
+    "rsdBaseFilenames" : [ "FGDB" ],
+    "parentBoneName" : "bone_6"
+  }, {
+    "boneIndex" : 9,
+    "name" : "bone_8",
+    "length" : 10.7281,
+    "rsdBaseFilenames" : [ "FGDD" ],
+    "parentBoneName" : "bone_7"
+  }, {
+    "boneIndex" : 10,
+    "name" : "bone_9",
+    "length" : 5.9675503,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 11,
+    "name" : "bone_10",
+    "length" : 8.860457,
+    "rsdBaseFilenames" : [ "FGDF" ],
+    "parentBoneName" : "bone_9"
+  } ]
+}

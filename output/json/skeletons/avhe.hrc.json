@@ -1,0 +1,16 @@
+{
+  "name" : "trb_wood_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "bone_1",
+    "length" : 14.644583,
+    "rsdBaseFilenames" : [ "AVHF", "AVIC" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "bone_2",
+    "length" : 8.873072,
+    "rsdBaseFilenames" : [ "AVIE", "AVJA" ],
+    "parentBoneName" : "bone_1"
+  } ]
+}

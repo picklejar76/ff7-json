@@ -1,0 +1,34 @@
+{
+  "name" : "heri2_st",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "non_2",
+    "length" : 77.26815,
+    "rsdBaseFilenames" : [ "BZIA", "BZIC", "BZIE", "BZJA", "BZJC", "BZJE", "CAAA", "CAAC", "CAAE", "CABA", "CABC", "CABE" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "non_3",
+    "length" : 17.628044,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "non_2"
+  }, {
+    "boneIndex" : 2,
+    "name" : "riarote",
+    "length" : 6.826305,
+    "rsdBaseFilenames" : [ "CACA" ],
+    "parentBoneName" : "non_3"
+  }, {
+    "boneIndex" : 3,
+    "name" : "non_1",
+    "length" : 27.72396,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 4,
+    "name" : "meinrote",
+    "length" : 6.9888954,
+    "rsdBaseFilenames" : [ "CACC" ],
+    "parentBoneName" : "non_1"
+  } ]
+}

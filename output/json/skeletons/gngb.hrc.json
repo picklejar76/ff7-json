@@ -1,0 +1,124 @@
+{
+  "name" : "mogriy_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "mune",
+    "length" : 5.5494556,
+    "rsdBaseFilenames" : [ "GNGC" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "atama",
+    "length" : 4.2736955,
+    "rsdBaseFilenames" : [ "GNGE" ],
+    "parentBoneName" : "mune"
+  }, {
+    "boneIndex" : 2,
+    "name" : "l_mimi1",
+    "length" : 1.8103735,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "atama"
+  }, {
+    "boneIndex" : 3,
+    "name" : "l_mimi2",
+    "length" : 2.1272533,
+    "rsdBaseFilenames" : [ "GNHA" ],
+    "parentBoneName" : "l_mimi1"
+  }, {
+    "boneIndex" : 4,
+    "name" : "r_mimi1",
+    "length" : 1.8103732,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "atama"
+  }, {
+    "boneIndex" : 5,
+    "name" : "r_mimi2",
+    "length" : 2.1272533,
+    "rsdBaseFilenames" : [ "GNHC" ],
+    "parentBoneName" : "r_mimi1"
+  }, {
+    "boneIndex" : 6,
+    "name" : "l_momo",
+    "length" : 2.3817272,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 7,
+    "name" : "l_asi",
+    "length" : 2.018015,
+    "rsdBaseFilenames" : [ "GNHE" ],
+    "parentBoneName" : "l_momo"
+  }, {
+    "boneIndex" : 8,
+    "name" : "non1",
+    "length" : 5.105974,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 9,
+    "name" : "l_ude1",
+    "length" : 1.8158332,
+    "rsdBaseFilenames" : [ "GNIA" ],
+    "parentBoneName" : "non1"
+  }, {
+    "boneIndex" : 10,
+    "name" : "l_ude2",
+    "length" : 2.4501772,
+    "rsdBaseFilenames" : [ "GNIC" ],
+    "parentBoneName" : "l_ude1"
+  }, {
+    "boneIndex" : 11,
+    "name" : "non2",
+    "length" : 5.473808,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 12,
+    "name" : "l_hane",
+    "length" : 5.0310707,
+    "rsdBaseFilenames" : [ "GNIE" ],
+    "parentBoneName" : "non2"
+  }, {
+    "boneIndex" : 13,
+    "name" : "non3",
+    "length" : 5.473808,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 14,
+    "name" : "r_hane",
+    "length" : 5.031071,
+    "rsdBaseFilenames" : [ "GNJA" ],
+    "parentBoneName" : "non3"
+  }, {
+    "boneIndex" : 15,
+    "name" : "non4",
+    "length" : 5.105974,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 16,
+    "name" : "r_ude1",
+    "length" : 1.8158332,
+    "rsdBaseFilenames" : [ "GNJC" ],
+    "parentBoneName" : "non4"
+  }, {
+    "boneIndex" : 17,
+    "name" : "r_ude2",
+    "length" : 2.4501777,
+    "rsdBaseFilenames" : [ "GNJE" ],
+    "parentBoneName" : "r_ude1"
+  }, {
+    "boneIndex" : 18,
+    "name" : "r_momo",
+    "length" : 2.3817265,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 19,
+    "name" : "r_asi",
+    "length" : 2.018015,
+    "rsdBaseFilenames" : [ "GOAA" ],
+    "parentBoneName" : "r_momo"
+  } ]
+}

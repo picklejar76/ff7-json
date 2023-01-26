@@ -1,0 +1,217 @@
+{
+  "vertices" : [ {
+    "x" : -0.314661,
+    "y" : 1.60361,
+    "z" : -5.55041
+  }, {
+    "x" : 1.46869,
+    "y" : -1.2689,
+    "z" : -4.57006
+  }, {
+    "x" : -0.891678,
+    "y" : -0.372848,
+    "z" : -4.94062
+  }, {
+    "x" : -2.6958,
+    "y" : -1.26387,
+    "z" : -6.97144
+  }, {
+    "x" : -0.0085668,
+    "y" : -0.172234,
+    "z" : -8.52304
+  }, {
+    "x" : -7.04182,
+    "y" : 7.87447,
+    "z" : -5.16574
+  } ],
+  "normals" : [ {
+    "x" : 0.461094,
+    "y" : -0.139233,
+    "z" : -0.87636
+  }, {
+    "x" : -0.6046,
+    "y" : 0.777013,
+    "z" : 0.175242
+  }, {
+    "x" : 0.475446,
+    "y" : 0.682718,
+    "z" : 0.55484
+  }, {
+    "x" : -0.683711,
+    "y" : -0.720006,
+    "z" : -0.118871
+  }, {
+    "x" : 0.722629,
+    "y" : -0.423837,
+    "z" : 0.546049
+  }, {
+    "x" : -0.497565,
+    "y" : -0.0667992,
+    "z" : 0.864851
+  } ],
+  "textureCoordinates" : [ ],
+  "vertexColors" : [ {
+    "r" : -1,
+    "g" : -1,
+    "b" : 116,
+    "a" : -1
+  }, {
+    "r" : -1,
+    "g" : -65,
+    "b" : 60,
+    "a" : -1
+  }, {
+    "r" : -1,
+    "g" : -36,
+    "b" : 69,
+    "a" : -1
+  }, {
+    "r" : -106,
+    "g" : 100,
+    "b" : 31,
+    "a" : -1
+  }, {
+    "r" : -68,
+    "g" : 126,
+    "b" : 39,
+    "a" : -1
+  }, {
+    "r" : -1,
+    "g" : -1,
+    "b" : 88,
+    "a" : -1
+  } ],
+  "polygonColors" : [ {
+    "r" : -1,
+    "g" : -34,
+    "b" : 82,
+    "a" : -1
+  }, {
+    "r" : -36,
+    "g" : -64,
+    "b" : 72,
+    "a" : -1
+  }, {
+    "r" : -36,
+    "g" : -86,
+    "b" : 53,
+    "a" : -1
+  }, {
+    "r" : -58,
+    "g" : -117,
+    "b" : 43,
+    "a" : -1
+  }, {
+    "r" : -23,
+    "g" : -65,
+    "b" : 72,
+    "a" : -1
+  }, {
+    "r" : -36,
+    "g" : -53,
+    "b" : 78,
+    "a" : -1
+  }, {
+    "r" : -58,
+    "g" : -96,
+    "b" : 53,
+    "a" : -1
+  }, {
+    "r" : -23,
+    "g" : -44,
+    "b" : 81,
+    "a" : -1
+  } ],
+  "polygons" : [ {
+    "vertexIndex1" : 0,
+    "vertexIndex2" : 1,
+    "vertexIndex3" : 2,
+    "normalIndex1" : 2,
+    "normalIndex2" : 4,
+    "normalIndex3" : 5,
+    "otherIndex1" : 0,
+    "otherIndex2" : 1,
+    "otherIndex3" : 2
+  }, {
+    "vertexIndex1" : 3,
+    "vertexIndex2" : 0,
+    "vertexIndex3" : 2,
+    "normalIndex1" : 3,
+    "normalIndex2" : 2,
+    "normalIndex3" : 5,
+    "otherIndex1" : 3,
+    "otherIndex2" : 2,
+    "otherIndex3" : 4
+  }, {
+    "vertexIndex1" : 1,
+    "vertexIndex2" : 3,
+    "vertexIndex3" : 2,
+    "normalIndex1" : 4,
+    "normalIndex2" : 3,
+    "normalIndex3" : 5,
+    "otherIndex1" : 5,
+    "otherIndex2" : 4,
+    "otherIndex3" : 1
+  }, {
+    "vertexIndex1" : 4,
+    "vertexIndex2" : 3,
+    "vertexIndex3" : 1,
+    "normalIndex1" : 0,
+    "normalIndex2" : 3,
+    "normalIndex3" : 4,
+    "otherIndex1" : 6,
+    "otherIndex2" : 5,
+    "otherIndex3" : 7
+  }, {
+    "vertexIndex1" : 0,
+    "vertexIndex2" : 4,
+    "vertexIndex3" : 1,
+    "normalIndex1" : 2,
+    "normalIndex2" : 0,
+    "normalIndex3" : 4,
+    "otherIndex1" : 8,
+    "otherIndex2" : 7,
+    "otherIndex3" : 0
+  }, {
+    "vertexIndex1" : 5,
+    "vertexIndex2" : 0,
+    "vertexIndex3" : 3,
+    "normalIndex1" : 1,
+    "normalIndex2" : 2,
+    "normalIndex3" : 3,
+    "otherIndex1" : 9,
+    "otherIndex2" : 3,
+    "otherIndex3" : 10
+  }, {
+    "vertexIndex1" : 4,
+    "vertexIndex2" : 5,
+    "vertexIndex3" : 3,
+    "normalIndex1" : 0,
+    "normalIndex2" : 1,
+    "normalIndex3" : 3,
+    "otherIndex1" : 11,
+    "otherIndex2" : 10,
+    "otherIndex3" : 6
+  }, {
+    "vertexIndex1" : 4,
+    "vertexIndex2" : 0,
+    "vertexIndex3" : 5,
+    "normalIndex1" : 0,
+    "normalIndex2" : 2,
+    "normalIndex3" : 1,
+    "otherIndex1" : 8,
+    "otherIndex2" : 9,
+    "otherIndex3" : 11
+  } ],
+  "polygonGroups" : [ {
+    "polygonType" : 1,
+    "offsetPolyIndex" : 0,
+    "numPolysInGroup" : 8,
+    "offsetVertexIndex" : 0,
+    "numVerticesInGroup" : 6,
+    "offsetEdgeIndex" : 0,
+    "offsetTextureCoordinateIndex" : 0,
+    "isTextureUsed" : 0,
+    "textureIndex" : 0
+  } ]
+}

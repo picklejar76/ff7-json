@@ -1,0 +1,34 @@
+{
+  "name" : "batta_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "bone_1",
+    "length" : 3.5528092,
+    "rsdBaseFilenames" : [ "HMJA" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "bone_2",
+    "length" : 1.7223717,
+    "rsdBaseFilenames" : [ "HMJC" ],
+    "parentBoneName" : "bone_1"
+  }, {
+    "boneIndex" : 2,
+    "name" : "bone_3",
+    "length" : 3.5528092,
+    "rsdBaseFilenames" : [ "HMJE" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 3,
+    "name" : "bone_4",
+    "length" : 1.7223717,
+    "rsdBaseFilenames" : [ "HNAA" ],
+    "parentBoneName" : "bone_3"
+  }, {
+    "boneIndex" : 4,
+    "name" : "bone_5",
+    "length" : 2.5,
+    "rsdBaseFilenames" : [ "HNAC" ],
+    "parentBoneName" : "root"
+  } ]
+}

@@ -1,0 +1,82 @@
+{
+  "name" : "frog_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "bone_3",
+    "length" : 5.6253085,
+    "rsdBaseFilenames" : [ "HNBA" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "bone_12",
+    "length" : 1.4613321,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "bone_3"
+  }, {
+    "boneIndex" : 2,
+    "name" : "bone_13",
+    "length" : 2.9269252,
+    "rsdBaseFilenames" : [ "HNBC" ],
+    "parentBoneName" : "bone_12"
+  }, {
+    "boneIndex" : 3,
+    "name" : "bone_2",
+    "length" : 1.4613321,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "bone_3"
+  }, {
+    "boneIndex" : 4,
+    "name" : "bone_1",
+    "length" : 2.9269252,
+    "rsdBaseFilenames" : [ "HNBE" ],
+    "parentBoneName" : "bone_2"
+  }, {
+    "boneIndex" : 5,
+    "name" : "bone_4",
+    "length" : 1.2731919,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 6,
+    "name" : "bone_5",
+    "length" : 3.9335592,
+    "rsdBaseFilenames" : [ "HNCA" ],
+    "parentBoneName" : "bone_4"
+  }, {
+    "boneIndex" : 7,
+    "name" : "bone_6",
+    "length" : 3.8944733,
+    "rsdBaseFilenames" : [ "HNCC" ],
+    "parentBoneName" : "bone_5"
+  }, {
+    "boneIndex" : 8,
+    "name" : "bone_7",
+    "length" : 4.3637705,
+    "rsdBaseFilenames" : [ "HNCE" ],
+    "parentBoneName" : "bone_6"
+  }, {
+    "boneIndex" : 9,
+    "name" : "bone_8",
+    "length" : 1.2731919,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 10,
+    "name" : "bone_9",
+    "length" : 3.9252899,
+    "rsdBaseFilenames" : [ "HNDA" ],
+    "parentBoneName" : "bone_8"
+  }, {
+    "boneIndex" : 11,
+    "name" : "bone_10",
+    "length" : 3.9254901,
+    "rsdBaseFilenames" : [ "HNDC" ],
+    "parentBoneName" : "bone_9"
+  }, {
+    "boneIndex" : 12,
+    "name" : "bone_11",
+    "length" : 4.3964043,
+    "rsdBaseFilenames" : [ "HNDE" ],
+    "parentBoneName" : "bone_10"
+  } ]
+}

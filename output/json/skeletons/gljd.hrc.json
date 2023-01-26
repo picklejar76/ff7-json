@@ -1,0 +1,124 @@
+{
+  "name" : "mogrif_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "mune",
+    "length" : 8.860231,
+    "rsdBaseFilenames" : [ "GLJE" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "atama",
+    "length" : 6.823366,
+    "rsdBaseFilenames" : [ "GMAA" ],
+    "parentBoneName" : "mune"
+  }, {
+    "boneIndex" : 2,
+    "name" : "l_mimi1",
+    "length" : 2.8904328,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "atama"
+  }, {
+    "boneIndex" : 3,
+    "name" : "l_mimi2",
+    "length" : 3.3963647,
+    "rsdBaseFilenames" : [ "GMAC" ],
+    "parentBoneName" : "l_mimi1"
+  }, {
+    "boneIndex" : 4,
+    "name" : "r_mimi1",
+    "length" : 2.890432,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "atama"
+  }, {
+    "boneIndex" : 5,
+    "name" : "r_mimi2",
+    "length" : 3.3963647,
+    "rsdBaseFilenames" : [ "GMAE" ],
+    "parentBoneName" : "r_mimi1"
+  }, {
+    "boneIndex" : 6,
+    "name" : "l_momo",
+    "length" : 3.802654,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 7,
+    "name" : "l_asi",
+    "length" : 3.221953,
+    "rsdBaseFilenames" : [ "GMBA" ],
+    "parentBoneName" : "l_momo"
+  }, {
+    "boneIndex" : 8,
+    "name" : "non1",
+    "length" : 8.152174,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 9,
+    "name" : "l_ude1",
+    "length" : 2.899151,
+    "rsdBaseFilenames" : [ "GMBC" ],
+    "parentBoneName" : "non1"
+  }, {
+    "boneIndex" : 10,
+    "name" : "l_ude2",
+    "length" : 3.911939,
+    "rsdBaseFilenames" : [ "GMBE" ],
+    "parentBoneName" : "l_ude1"
+  }, {
+    "boneIndex" : 11,
+    "name" : "non2",
+    "length" : 8.739458,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 12,
+    "name" : "l_hane",
+    "length" : 8.032587,
+    "rsdBaseFilenames" : [ "GMCA" ],
+    "parentBoneName" : "non2"
+  }, {
+    "boneIndex" : 13,
+    "name" : "non3",
+    "length" : 8.739457,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 14,
+    "name" : "r_hane",
+    "length" : 8.032588,
+    "rsdBaseFilenames" : [ "GMCC" ],
+    "parentBoneName" : "non3"
+  }, {
+    "boneIndex" : 15,
+    "name" : "non4",
+    "length" : 8.152174,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 16,
+    "name" : "r_ude1",
+    "length" : 2.899151,
+    "rsdBaseFilenames" : [ "GMCE" ],
+    "parentBoneName" : "non4"
+  }, {
+    "boneIndex" : 17,
+    "name" : "r_ude2",
+    "length" : 3.9119396,
+    "rsdBaseFilenames" : [ "GMDA" ],
+    "parentBoneName" : "r_ude1"
+  }, {
+    "boneIndex" : 18,
+    "name" : "r_momo",
+    "length" : 3.802652,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 19,
+    "name" : "r_asi",
+    "length" : 3.221953,
+    "rsdBaseFilenames" : [ "GMDC" ],
+    "parentBoneName" : "r_momo"
+  } ]
+}

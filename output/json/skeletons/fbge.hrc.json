@@ -1,0 +1,106 @@
+{
+  "name" : "r_ketcy_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "dchest",
+    "length" : 9.535749,
+    "rsdBaseFilenames" : [ "FBGF" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "dl_chest",
+    "length" : 6.46704,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "dchest"
+  }, {
+    "boneIndex" : 2,
+    "name" : "dl_colla",
+    "length" : 2.0349512,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "dl_chest"
+  }, {
+    "boneIndex" : 3,
+    "name" : "dl_uparm",
+    "length" : 15.936046,
+    "rsdBaseFilenames" : [ "FBHB" ],
+    "parentBoneName" : "dl_colla"
+  }, {
+    "boneIndex" : 4,
+    "name" : "dr_chest",
+    "length" : 6.46704,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "dchest"
+  }, {
+    "boneIndex" : 5,
+    "name" : "dr_colla",
+    "length" : 2.0349512,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "dr_chest"
+  }, {
+    "boneIndex" : 6,
+    "name" : "bone_16",
+    "length" : 7.8219543,
+    "rsdBaseFilenames" : [ "FBHD" ],
+    "parentBoneName" : "dr_colla"
+  }, {
+    "boneIndex" : 7,
+    "name" : "bone_17",
+    "length" : 5.0704746,
+    "rsdBaseFilenames" : [ "FBHF" ],
+    "parentBoneName" : "bone_16"
+  }, {
+    "boneIndex" : 8,
+    "name" : "bone_18",
+    "length" : 3.0436168,
+    "rsdBaseFilenames" : [ "FBIB" ],
+    "parentBoneName" : "bone_17"
+  }, {
+    "boneIndex" : 9,
+    "name" : "non01",
+    "length" : 7.2813115,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "dchest"
+  }, {
+    "boneIndex" : 10,
+    "name" : "head",
+    "length" : 5.9827423,
+    "rsdBaseFilenames" : [ "FBID" ],
+    "parentBoneName" : "non01"
+  }, {
+    "boneIndex" : 11,
+    "name" : "dl_hip",
+    "length" : 4.6003513,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 12,
+    "name" : "dl_femur",
+    "length" : 4.468447,
+    "rsdBaseFilenames" : [ "FBJA" ],
+    "parentBoneName" : "dl_hip"
+  }, {
+    "boneIndex" : 13,
+    "name" : "dl_foot",
+    "length" : 15.062583,
+    "rsdBaseFilenames" : [ "FBJC" ],
+    "parentBoneName" : "dl_femur"
+  }, {
+    "boneIndex" : 14,
+    "name" : "dr_hip",
+    "length" : 4.6003513,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 15,
+    "name" : "dr_femur",
+    "length" : 4.468447,
+    "rsdBaseFilenames" : [ "FBJE" ],
+    "parentBoneName" : "dr_hip"
+  }, {
+    "boneIndex" : 16,
+    "name" : "dr_foot",
+    "length" : 15.062583,
+    "rsdBaseFilenames" : [ "FCAA" ],
+    "parentBoneName" : "dr_femur"
+  } ]
+}

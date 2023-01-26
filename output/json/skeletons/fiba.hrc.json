@@ -1,0 +1,148 @@
+{
+  "name" : "maru_st",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "o_1",
+    "length" : 37.968452,
+    "rsdBaseFilenames" : [ "FIBB" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "chest",
+    "length" : 70.27411,
+    "rsdBaseFilenames" : [ "FIBD" ],
+    "parentBoneName" : "o_1"
+  }, {
+    "boneIndex" : 2,
+    "name" : "head",
+    "length" : 10.38134,
+    "rsdBaseFilenames" : [ "FIBF", "FICB", "FICD" ],
+    "parentBoneName" : "chest"
+  }, {
+    "boneIndex" : 3,
+    "name" : "none1",
+    "length" : 2.8193655,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "head"
+  }, {
+    "boneIndex" : 4,
+    "name" : "ago",
+    "length" : 16.269402,
+    "rsdBaseFilenames" : [ "FICF" ],
+    "parentBoneName" : "none1"
+  }, {
+    "boneIndex" : 5,
+    "name" : "none2",
+    "length" : 11.982176,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "chest"
+  }, {
+    "boneIndex" : 6,
+    "name" : "l_hire1",
+    "length" : 35.449577,
+    "rsdBaseFilenames" : [ "FIDB" ],
+    "parentBoneName" : "none2"
+  }, {
+    "boneIndex" : 7,
+    "name" : "l_hire2",
+    "length" : 50.157646,
+    "rsdBaseFilenames" : [ "FIDD" ],
+    "parentBoneName" : "l_hire1"
+  }, {
+    "boneIndex" : 8,
+    "name" : "none6",
+    "length" : 11.982167,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "chest"
+  }, {
+    "boneIndex" : 9,
+    "name" : "r_hire1",
+    "length" : 35.449577,
+    "rsdBaseFilenames" : [ "FIDF" ],
+    "parentBoneName" : "none6"
+  }, {
+    "boneIndex" : 10,
+    "name" : "r_hire2",
+    "length" : 50.157646,
+    "rsdBaseFilenames" : [ "FIEB" ],
+    "parentBoneName" : "r_hire1"
+  }, {
+    "boneIndex" : 11,
+    "name" : "none11",
+    "length" : 24.098469,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 12,
+    "name" : "l_hand2",
+    "length" : 67.023544,
+    "rsdBaseFilenames" : [ "FIED" ],
+    "parentBoneName" : "none11"
+  }, {
+    "boneIndex" : 13,
+    "name" : "l_hand4",
+    "length" : 74.82413,
+    "rsdBaseFilenames" : [ "FIEF" ],
+    "parentBoneName" : "l_hand2"
+  }, {
+    "boneIndex" : 14,
+    "name" : "none12",
+    "length" : 44.159107,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 15,
+    "name" : "hire1",
+    "length" : 34.967228,
+    "rsdBaseFilenames" : [ "FIFB" ],
+    "parentBoneName" : "none12"
+  }, {
+    "boneIndex" : 16,
+    "name" : "hire3",
+    "length" : 73.81333,
+    "rsdBaseFilenames" : [ "FIFD" ],
+    "parentBoneName" : "hire1"
+  }, {
+    "boneIndex" : 17,
+    "name" : "none13",
+    "length" : 23.419458,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 18,
+    "name" : "r_hand2",
+    "length" : 67.023544,
+    "rsdBaseFilenames" : [ "FIFF" ],
+    "parentBoneName" : "none13"
+  }, {
+    "boneIndex" : 19,
+    "name" : "r_hand4",
+    "length" : 74.82413,
+    "rsdBaseFilenames" : [ "FIGB" ],
+    "parentBoneName" : "r_hand2"
+  }, {
+    "boneIndex" : 20,
+    "name" : "o_2",
+    "length" : 31.01649,
+    "rsdBaseFilenames" : [ "FIGD" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 21,
+    "name" : "o_3",
+    "length" : 31.016495,
+    "rsdBaseFilenames" : [ "FIGF" ],
+    "parentBoneName" : "o_2"
+  }, {
+    "boneIndex" : 22,
+    "name" : "o_4",
+    "length" : 32.08602,
+    "rsdBaseFilenames" : [ "FIHB" ],
+    "parentBoneName" : "o_3"
+  }, {
+    "boneIndex" : 23,
+    "name" : "o_7",
+    "length" : 128.34412,
+    "rsdBaseFilenames" : [ "FIHD" ],
+    "parentBoneName" : "o_4"
+  } ]
+}

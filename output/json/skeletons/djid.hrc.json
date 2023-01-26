@@ -1,0 +1,118 @@
+{
+  "name" : "wagon_st",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "bone_3",
+    "length" : 84.9343,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "bone_10",
+    "length" : 21.070623,
+    "rsdBaseFilenames" : [ "DJIE" ],
+    "parentBoneName" : "bone_3"
+  }, {
+    "boneIndex" : 2,
+    "name" : "bone_12",
+    "length" : 7.017114,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "bone_10"
+  }, {
+    "boneIndex" : 3,
+    "name" : "bone_13",
+    "length" : 5.6615143,
+    "rsdBaseFilenames" : [ "DJJA" ],
+    "parentBoneName" : "bone_12"
+  }, {
+    "boneIndex" : 4,
+    "name" : "bone_14",
+    "length" : 11.29215,
+    "rsdBaseFilenames" : [ "DJJC" ],
+    "parentBoneName" : "bone_13"
+  }, {
+    "boneIndex" : 5,
+    "name" : "bone_15",
+    "length" : 14.510147,
+    "rsdBaseFilenames" : [ "DJJE" ],
+    "parentBoneName" : "bone_14"
+  }, {
+    "boneIndex" : 6,
+    "name" : "bone_16",
+    "length" : 9.267448,
+    "rsdBaseFilenames" : [ "DKAA" ],
+    "parentBoneName" : "bone_15"
+  }, {
+    "boneIndex" : 7,
+    "name" : "bone_24",
+    "length" : 10.454475,
+    "rsdBaseFilenames" : [ "DKAC" ],
+    "parentBoneName" : "bone_15"
+  }, {
+    "boneIndex" : 8,
+    "name" : "bone_18",
+    "length" : 7.017114,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "bone_10"
+  }, {
+    "boneIndex" : 9,
+    "name" : "bone_19",
+    "length" : 5.6615143,
+    "rsdBaseFilenames" : [ "DKAE" ],
+    "parentBoneName" : "bone_18"
+  }, {
+    "boneIndex" : 10,
+    "name" : "bone_20",
+    "length" : 11.29215,
+    "rsdBaseFilenames" : [ "DKBA" ],
+    "parentBoneName" : "bone_19"
+  }, {
+    "boneIndex" : 11,
+    "name" : "bone_21",
+    "length" : 14.510147,
+    "rsdBaseFilenames" : [ "DKBC" ],
+    "parentBoneName" : "bone_20"
+  }, {
+    "boneIndex" : 12,
+    "name" : "bone_22",
+    "length" : 9.267448,
+    "rsdBaseFilenames" : [ "DKBE" ],
+    "parentBoneName" : "bone_21"
+  }, {
+    "boneIndex" : 13,
+    "name" : "bone_26",
+    "length" : 10.454475,
+    "rsdBaseFilenames" : [ "DKCA" ],
+    "parentBoneName" : "bone_21"
+  }, {
+    "boneIndex" : 14,
+    "name" : "bone_2",
+    "length" : 16.16416,
+    "rsdBaseFilenames" : [ "DKCC" ],
+    "parentBoneName" : "bone_3"
+  }, {
+    "boneIndex" : 15,
+    "name" : "bone_1",
+    "length" : 9.07692,
+    "rsdBaseFilenames" : [ "DKCE" ],
+    "parentBoneName" : "bone_2"
+  }, {
+    "boneIndex" : 16,
+    "name" : "bone_4",
+    "length" : 39.801,
+    "rsdBaseFilenames" : [ "DKDA", "DKDC", "DKDE", "DKEA", "DKEC", "DKEE", "DKFA", "DKFC", "DKFE", "DKGA", "DKGC", "DKGE" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 17,
+    "name" : "bone_8",
+    "length" : 17.482044,
+    "rsdBaseFilenames" : [ "DKHA", "DKHC" ],
+    "parentBoneName" : "bone_4"
+  }, {
+    "boneIndex" : 18,
+    "name" : "bone_6",
+    "length" : 17.482044,
+    "rsdBaseFilenames" : [ "DKHE", "DKIA" ],
+    "parentBoneName" : "root"
+  } ]
+}

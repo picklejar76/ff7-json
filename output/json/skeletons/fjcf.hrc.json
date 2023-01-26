@@ -1,0 +1,154 @@
+{
+  "name" : "c_red_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "hip",
+    "length" : 3.285284,
+    "rsdBaseFilenames" : [ "FJDA" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "chest",
+    "length" : 5.4510274,
+    "rsdBaseFilenames" : [ "FJDC" ],
+    "parentBoneName" : "hip"
+  }, {
+    "boneIndex" : 2,
+    "name" : "head",
+    "length" : 5.175867,
+    "rsdBaseFilenames" : [ "FJDE" ],
+    "parentBoneName" : "chest"
+  }, {
+    "boneIndex" : 3,
+    "name" : "l_chest",
+    "length" : 4.6361337,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "hip"
+  }, {
+    "boneIndex" : 4,
+    "name" : "l_collar",
+    "length" : 3.4445624,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "l_chest"
+  }, {
+    "boneIndex" : 5,
+    "name" : "l_uparm",
+    "length" : 3.0538175,
+    "rsdBaseFilenames" : [ "FJEA" ],
+    "parentBoneName" : "l_collar"
+  }, {
+    "boneIndex" : 6,
+    "name" : "l_foarm",
+    "length" : 4.115904,
+    "rsdBaseFilenames" : [ "FJEC" ],
+    "parentBoneName" : "l_uparm"
+  }, {
+    "boneIndex" : 7,
+    "name" : "l_hand",
+    "length" : 3.7494564,
+    "rsdBaseFilenames" : [ "FJEE" ],
+    "parentBoneName" : "l_foarm"
+  }, {
+    "boneIndex" : 8,
+    "name" : "r_chest",
+    "length" : 4.6361337,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "hip"
+  }, {
+    "boneIndex" : 9,
+    "name" : "r_collar",
+    "length" : 3.4445624,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "r_chest"
+  }, {
+    "boneIndex" : 10,
+    "name" : "r_uparm",
+    "length" : 3.0538175,
+    "rsdBaseFilenames" : [ "FJFA" ],
+    "parentBoneName" : "r_collar"
+  }, {
+    "boneIndex" : 11,
+    "name" : "r_foarm",
+    "length" : 4.115904,
+    "rsdBaseFilenames" : [ "FJFC" ],
+    "parentBoneName" : "r_uparm"
+  }, {
+    "boneIndex" : 12,
+    "name" : "r_hand",
+    "length" : 3.7494564,
+    "rsdBaseFilenames" : [ "FJFE" ],
+    "parentBoneName" : "r_foarm"
+  }, {
+    "boneIndex" : 13,
+    "name" : "l_hip",
+    "length" : 2.0172887,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 14,
+    "name" : "l_femur",
+    "length" : 7.753035,
+    "rsdBaseFilenames" : [ "FJGA" ],
+    "parentBoneName" : "l_hip"
+  }, {
+    "boneIndex" : 15,
+    "name" : "l_tibia",
+    "length" : 3.0192966,
+    "rsdBaseFilenames" : [ "FJGC" ],
+    "parentBoneName" : "l_femur"
+  }, {
+    "boneIndex" : 16,
+    "name" : "l_foot",
+    "length" : 6.8091,
+    "rsdBaseFilenames" : [ "FJGE" ],
+    "parentBoneName" : "l_tibia"
+  }, {
+    "boneIndex" : 17,
+    "name" : "r_hip",
+    "length" : 2.0172887,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 18,
+    "name" : "r_femur",
+    "length" : 7.753035,
+    "rsdBaseFilenames" : [ "FJHA" ],
+    "parentBoneName" : "r_hip"
+  }, {
+    "boneIndex" : 19,
+    "name" : "r_tibia",
+    "length" : 3.0192966,
+    "rsdBaseFilenames" : [ "FJHC" ],
+    "parentBoneName" : "r_femur"
+  }, {
+    "boneIndex" : 20,
+    "name" : "r_foot",
+    "length" : 6.8091,
+    "rsdBaseFilenames" : [ "FJHE" ],
+    "parentBoneName" : "r_tibia"
+  }, {
+    "boneIndex" : 21,
+    "name" : "tail_0",
+    "length" : 1.8088382,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 22,
+    "name" : "tail_1",
+    "length" : 5.0909147,
+    "rsdBaseFilenames" : [ "FJIA" ],
+    "parentBoneName" : "tail_0"
+  }, {
+    "boneIndex" : 23,
+    "name" : "tail_2",
+    "length" : 5.1079836,
+    "rsdBaseFilenames" : [ "FJIC" ],
+    "parentBoneName" : "tail_1"
+  }, {
+    "boneIndex" : 24,
+    "name" : "tailend",
+    "length" : 9.613017,
+    "rsdBaseFilenames" : [ "FJIE" ],
+    "parentBoneName" : "tail_2"
+  } ]
+}

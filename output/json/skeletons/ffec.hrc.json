@@ -1,0 +1,58 @@
+{
+  "name" : "fish1_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "bone_3",
+    "length" : 5.878315,
+    "rsdBaseFilenames" : [ "FFED" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "bone_2",
+    "length" : 5.195858,
+    "rsdBaseFilenames" : [ "FFEF" ],
+    "parentBoneName" : "bone_3"
+  }, {
+    "boneIndex" : 2,
+    "name" : "bone_1",
+    "length" : 4.6920824,
+    "rsdBaseFilenames" : [ "FFFB" ],
+    "parentBoneName" : "bone_2"
+  }, {
+    "boneIndex" : 3,
+    "name" : "bone_4",
+    "length" : 6.820944,
+    "rsdBaseFilenames" : [ "FFFD" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 4,
+    "name" : "bone_5",
+    "length" : 6.412801,
+    "rsdBaseFilenames" : [ "FFFF" ],
+    "parentBoneName" : "bone_4"
+  }, {
+    "boneIndex" : 5,
+    "name" : "bone_6",
+    "length" : 3.852182,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "bone_4"
+  }, {
+    "boneIndex" : 6,
+    "name" : "bone_7",
+    "length" : 2.5810187,
+    "rsdBaseFilenames" : [ "FFGB" ],
+    "parentBoneName" : "bone_6"
+  }, {
+    "boneIndex" : 7,
+    "name" : "bone_8",
+    "length" : 3.8659384,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "bone_4"
+  }, {
+    "boneIndex" : 8,
+    "name" : "bone_9",
+    "length" : 2.5807638,
+    "rsdBaseFilenames" : [ "FFGD" ],
+    "parentBoneName" : "bone_8"
+  } ]
+}

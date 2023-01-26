@@ -1,0 +1,70 @@
+{
+  "name" : "iruka_st",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "dou1",
+    "length" : 10.424295,
+    "rsdBaseFilenames" : [ "BDCE" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "head",
+    "length" : 3.4360197,
+    "rsdBaseFilenames" : [ "BDDA" ],
+    "parentBoneName" : "dou1"
+  }, {
+    "boneIndex" : 2,
+    "name" : "ago",
+    "length" : 5.593754,
+    "rsdBaseFilenames" : [ "BDDC" ],
+    "parentBoneName" : "head"
+  }, {
+    "boneIndex" : 3,
+    "name" : "non1",
+    "length" : 5.356847,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "dou1"
+  }, {
+    "boneIndex" : 4,
+    "name" : "bone_9",
+    "length" : 5.778778,
+    "rsdBaseFilenames" : [ "BDDE" ],
+    "parentBoneName" : "non1"
+  }, {
+    "boneIndex" : 5,
+    "name" : "non2",
+    "length" : 5.356847,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "dou1"
+  }, {
+    "boneIndex" : 6,
+    "name" : "bone_11",
+    "length" : 5.778778,
+    "rsdBaseFilenames" : [ "BDEA" ],
+    "parentBoneName" : "non2"
+  }, {
+    "boneIndex" : 7,
+    "name" : "dou2",
+    "length" : 9.291084,
+    "rsdBaseFilenames" : [ "BDEC" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 8,
+    "name" : "dou3",
+    "length" : 11.299686,
+    "rsdBaseFilenames" : [ "BDEE" ],
+    "parentBoneName" : "dou2"
+  }, {
+    "boneIndex" : 9,
+    "name" : "ottpo1",
+    "length" : 10.049404,
+    "rsdBaseFilenames" : [ "BDFA" ],
+    "parentBoneName" : "dou3"
+  }, {
+    "boneIndex" : 10,
+    "name" : "ohire",
+    "length" : 5.835724,
+    "rsdBaseFilenames" : [ "BDFC" ],
+    "parentBoneName" : "ottpo1"
+  } ]
+}

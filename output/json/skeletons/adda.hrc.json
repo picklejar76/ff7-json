@@ -1,0 +1,178 @@
+{
+  "name" : "sd_red_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "hip",
+    "length" : 3.725099,
+    "rsdBaseFilenames" : [ "ADDB" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "chest",
+    "length" : 12.90124,
+    "rsdBaseFilenames" : [ "ADDD" ],
+    "parentBoneName" : "hip"
+  }, {
+    "boneIndex" : 2,
+    "name" : "head",
+    "length" : 9.636866,
+    "rsdBaseFilenames" : [ "ADDF" ],
+    "parentBoneName" : "chest"
+  }, {
+    "boneIndex" : 3,
+    "name" : "l_chest",
+    "length" : 7.4148254,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "hip"
+  }, {
+    "boneIndex" : 4,
+    "name" : "l_collar",
+    "length" : 4.08438,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "l_chest"
+  }, {
+    "boneIndex" : 5,
+    "name" : "l_uparm",
+    "length" : 4.0848064,
+    "rsdBaseFilenames" : [ "ADEC" ],
+    "parentBoneName" : "l_collar"
+  }, {
+    "boneIndex" : 6,
+    "name" : "l_foarm",
+    "length" : 1.1579139,
+    "rsdBaseFilenames" : [ "ADEE" ],
+    "parentBoneName" : "l_uparm"
+  }, {
+    "boneIndex" : 7,
+    "name" : "l_hand1",
+    "length" : 2.1387138,
+    "rsdBaseFilenames" : [ "ADFA" ],
+    "parentBoneName" : "l_foarm"
+  }, {
+    "boneIndex" : 8,
+    "name" : "l_hand2",
+    "length" : 2.525437,
+    "rsdBaseFilenames" : [ "ADFC" ],
+    "parentBoneName" : "l_hand1"
+  }, {
+    "boneIndex" : 9,
+    "name" : "r_chest",
+    "length" : 7.4148254,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "hip"
+  }, {
+    "boneIndex" : 10,
+    "name" : "r_collar",
+    "length" : 4.08438,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "r_chest"
+  }, {
+    "boneIndex" : 11,
+    "name" : "r_uparm",
+    "length" : 4.0848064,
+    "rsdBaseFilenames" : [ "ADFE" ],
+    "parentBoneName" : "r_collar"
+  }, {
+    "boneIndex" : 12,
+    "name" : "r_foarm",
+    "length" : 1.1579139,
+    "rsdBaseFilenames" : [ "ADGA" ],
+    "parentBoneName" : "r_uparm"
+  }, {
+    "boneIndex" : 13,
+    "name" : "r_hand1",
+    "length" : 2.1387138,
+    "rsdBaseFilenames" : [ "ADGC" ],
+    "parentBoneName" : "r_foarm"
+  }, {
+    "boneIndex" : 14,
+    "name" : "r_hand2",
+    "length" : 2.525437,
+    "rsdBaseFilenames" : [ "ADGE" ],
+    "parentBoneName" : "r_hand1"
+  }, {
+    "boneIndex" : 15,
+    "name" : "l_hip",
+    "length" : 3.1121905,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 16,
+    "name" : "l_femur",
+    "length" : 6.039106,
+    "rsdBaseFilenames" : [ "ADHA" ],
+    "parentBoneName" : "l_hip"
+  }, {
+    "boneIndex" : 17,
+    "name" : "l_tibia",
+    "length" : 1.5694404,
+    "rsdBaseFilenames" : [ "ADHC" ],
+    "parentBoneName" : "l_femur"
+  }, {
+    "boneIndex" : 18,
+    "name" : "l_foot",
+    "length" : 2.3553624,
+    "rsdBaseFilenames" : [ "ADHE" ],
+    "parentBoneName" : "l_tibia"
+  }, {
+    "boneIndex" : 19,
+    "name" : "l_toes",
+    "length" : 2.6314538,
+    "rsdBaseFilenames" : [ "ADIA" ],
+    "parentBoneName" : "l_foot"
+  }, {
+    "boneIndex" : 20,
+    "name" : "none_1",
+    "length" : 2.9675312,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 21,
+    "name" : "tail_1",
+    "length" : 5.0698004,
+    "rsdBaseFilenames" : [ "ADIC" ],
+    "parentBoneName" : "none_1"
+  }, {
+    "boneIndex" : 22,
+    "name" : "tail_2",
+    "length" : 5.069789,
+    "rsdBaseFilenames" : [ "ADIE" ],
+    "parentBoneName" : "tail_1"
+  }, {
+    "boneIndex" : 23,
+    "name" : "tail_3",
+    "length" : 9.880411,
+    "rsdBaseFilenames" : [ "ADJA" ],
+    "parentBoneName" : "tail_2"
+  }, {
+    "boneIndex" : 24,
+    "name" : "r_hip",
+    "length" : 3.1121898,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 25,
+    "name" : "r_femur",
+    "length" : 6.039106,
+    "rsdBaseFilenames" : [ "ADJC" ],
+    "parentBoneName" : "r_hip"
+  }, {
+    "boneIndex" : 26,
+    "name" : "r_tibia",
+    "length" : 1.5694404,
+    "rsdBaseFilenames" : [ "ADJE" ],
+    "parentBoneName" : "r_femur"
+  }, {
+    "boneIndex" : 27,
+    "name" : "r_foot",
+    "length" : 2.3553624,
+    "rsdBaseFilenames" : [ "AEAA" ],
+    "parentBoneName" : "r_tibia"
+  }, {
+    "boneIndex" : 28,
+    "name" : "r_toes",
+    "length" : 2.6314538,
+    "rsdBaseFilenames" : [ "AEAC" ],
+    "parentBoneName" : "r_foot"
+  } ]
+}

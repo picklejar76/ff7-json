@@ -1,0 +1,58 @@
+{
+  "name" : "bat_st",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "chest",
+    "length" : 3.0159097,
+    "rsdBaseFilenames" : [ "GDID" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "non1",
+    "length" : 3.319724,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 2,
+    "name" : "l_hane1",
+    "length" : 5.3289623,
+    "rsdBaseFilenames" : [ "GDIF" ],
+    "parentBoneName" : "non1"
+  }, {
+    "boneIndex" : 3,
+    "name" : "l_hane2",
+    "length" : 6.281354,
+    "rsdBaseFilenames" : [ "GDJB" ],
+    "parentBoneName" : "l_hane1"
+  }, {
+    "boneIndex" : 4,
+    "name" : "non2",
+    "length" : 3.319724,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 5,
+    "name" : "r_hane1",
+    "length" : 5.3289623,
+    "rsdBaseFilenames" : [ "GDJD" ],
+    "parentBoneName" : "non2"
+  }, {
+    "boneIndex" : 6,
+    "name" : "r_hane2",
+    "length" : 6.281354,
+    "rsdBaseFilenames" : [ "GDJF" ],
+    "parentBoneName" : "r_hane1"
+  }, {
+    "boneIndex" : 7,
+    "name" : "o_1",
+    "length" : 1.3093148,
+    "rsdBaseFilenames" : [ "GEAB" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 8,
+    "name" : "o_2",
+    "length" : 4.4871473,
+    "rsdBaseFilenames" : [ "GEAD" ],
+    "parentBoneName" : "o_1"
+  } ]
+}

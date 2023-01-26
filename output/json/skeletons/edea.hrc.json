@@ -1,0 +1,142 @@
+{
+  "name" : "onna_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "hip",
+    "length" : 2.5,
+    "rsdBaseFilenames" : [ "EDEB" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "chest",
+    "length" : 4.018633,
+    "rsdBaseFilenames" : [ "EDED" ],
+    "parentBoneName" : "hip"
+  }, {
+    "boneIndex" : 2,
+    "name" : "head",
+    "length" : 4.5,
+    "rsdBaseFilenames" : [ "EDEF" ],
+    "parentBoneName" : "chest"
+  }, {
+    "boneIndex" : 3,
+    "name" : "none1",
+    "length" : 4.9774346,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "head"
+  }, {
+    "boneIndex" : 4,
+    "name" : "hair",
+    "length" : 7.0,
+    "rsdBaseFilenames" : [ "EDFE" ],
+    "parentBoneName" : "none1"
+  }, {
+    "boneIndex" : 5,
+    "name" : "l_chest",
+    "length" : 2.070262,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "hip"
+  }, {
+    "boneIndex" : 6,
+    "name" : "l_collar",
+    "length" : 3.6326816,
+    "rsdBaseFilenames" : [ "EDGA" ],
+    "parentBoneName" : "l_chest"
+  }, {
+    "boneIndex" : 7,
+    "name" : "l_uparm",
+    "length" : 2.6108885,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "l_collar"
+  }, {
+    "boneIndex" : 8,
+    "name" : "l_foarm",
+    "length" : 4.3386164,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "l_uparm"
+  }, {
+    "boneIndex" : 9,
+    "name" : "l_hand",
+    "length" : 2.0785122,
+    "rsdBaseFilenames" : [ "EDGC" ],
+    "parentBoneName" : "l_foarm"
+  }, {
+    "boneIndex" : 10,
+    "name" : "r_chest",
+    "length" : 2.070262,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "hip"
+  }, {
+    "boneIndex" : 11,
+    "name" : "r_collar",
+    "length" : 3.6326816,
+    "rsdBaseFilenames" : [ "EDGE" ],
+    "parentBoneName" : "r_chest"
+  }, {
+    "boneIndex" : 12,
+    "name" : "r_uparm",
+    "length" : 2.6108885,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "r_collar"
+  }, {
+    "boneIndex" : 13,
+    "name" : "r_foarm",
+    "length" : 4.3386164,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "r_uparm"
+  }, {
+    "boneIndex" : 14,
+    "name" : "r_hand",
+    "length" : 2.0785122,
+    "rsdBaseFilenames" : [ "EDHA" ],
+    "parentBoneName" : "r_foarm"
+  }, {
+    "boneIndex" : 15,
+    "name" : "l_hip",
+    "length" : 0.9999999,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 16,
+    "name" : "l_femur",
+    "length" : 5.0,
+    "rsdBaseFilenames" : [ "EDHC" ],
+    "parentBoneName" : "l_hip"
+  }, {
+    "boneIndex" : 17,
+    "name" : "l_tibia",
+    "length" : 5.5,
+    "rsdBaseFilenames" : [ "EDHE" ],
+    "parentBoneName" : "l_femur"
+  }, {
+    "boneIndex" : 18,
+    "name" : "l_foot",
+    "length" : 7.154611,
+    "rsdBaseFilenames" : [ "EDIA" ],
+    "parentBoneName" : "l_tibia"
+  }, {
+    "boneIndex" : 19,
+    "name" : "r_hip",
+    "length" : 1.0000001,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 20,
+    "name" : "r_femur",
+    "length" : 5.0,
+    "rsdBaseFilenames" : [ "EDIC" ],
+    "parentBoneName" : "r_hip"
+  }, {
+    "boneIndex" : 21,
+    "name" : "r_tibia",
+    "length" : 5.5,
+    "rsdBaseFilenames" : [ "EDIE" ],
+    "parentBoneName" : "r_femur"
+  }, {
+    "boneIndex" : 22,
+    "name" : "r_foot",
+    "length" : 7.154611,
+    "rsdBaseFilenames" : [ "EDJA" ],
+    "parentBoneName" : "r_tibia"
+  } ]
+}

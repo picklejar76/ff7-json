@@ -1,0 +1,172 @@
+{
+  "name" : "chocobo_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "chest",
+    "length" : 15.011381,
+    "rsdBaseFilenames" : [ "AQGD" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "lcw",
+    "length" : 5.0961156,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "chest"
+  }, {
+    "boneIndex" : 2,
+    "name" : "l_wing",
+    "length" : 15.263075,
+    "rsdBaseFilenames" : [ "AQGF" ],
+    "parentBoneName" : "lcw"
+  }, {
+    "boneIndex" : 3,
+    "name" : "nech",
+    "length" : 10.458211,
+    "rsdBaseFilenames" : [ "AQHB" ],
+    "parentBoneName" : "chest"
+  }, {
+    "boneIndex" : 4,
+    "name" : "head",
+    "length" : 6.7878222,
+    "rsdBaseFilenames" : [ "AQHD" ],
+    "parentBoneName" : "nech"
+  }, {
+    "boneIndex" : 5,
+    "name" : "hair",
+    "length" : 6.380265,
+    "rsdBaseFilenames" : [ "AQHF" ],
+    "parentBoneName" : "head"
+  }, {
+    "boneIndex" : 6,
+    "name" : "rcw",
+    "length" : 5.0961156,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "chest"
+  }, {
+    "boneIndex" : 7,
+    "name" : "r_wing",
+    "length" : 15.263075,
+    "rsdBaseFilenames" : [ "AQIB" ],
+    "parentBoneName" : "rcw"
+  }, {
+    "boneIndex" : 8,
+    "name" : "hcw",
+    "length" : 9.546026,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 9,
+    "name" : "h_wing",
+    "length" : 10.493971,
+    "rsdBaseFilenames" : [ "AQID" ],
+    "parentBoneName" : "hcw"
+  }, {
+    "boneIndex" : 10,
+    "name" : "lcl",
+    "length" : 7.383406,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 11,
+    "name" : "l_momo",
+    "length" : 7.100947,
+    "rsdBaseFilenames" : [ "AQIF" ],
+    "parentBoneName" : "lcl"
+  }, {
+    "boneIndex" : 12,
+    "name" : "l_femur",
+    "length" : 5.1980143,
+    "rsdBaseFilenames" : [ "AQJB" ],
+    "parentBoneName" : "l_momo"
+  }, {
+    "boneIndex" : 13,
+    "name" : "l_tibia",
+    "length" : 9.691789,
+    "rsdBaseFilenames" : [ "AQJD" ],
+    "parentBoneName" : "l_femur"
+  }, {
+    "boneIndex" : 14,
+    "name" : "lb_nail",
+    "length" : 11.424666,
+    "rsdBaseFilenames" : [ "AQJF" ],
+    "parentBoneName" : "l_tibia"
+  }, {
+    "boneIndex" : 15,
+    "name" : "l_lfoot",
+    "length" : 5.3514533,
+    "rsdBaseFilenames" : [ "ARAB" ],
+    "parentBoneName" : "l_tibia"
+  }, {
+    "boneIndex" : 16,
+    "name" : "lf_lnail",
+    "length" : 8.941847,
+    "rsdBaseFilenames" : [ "ARAD" ],
+    "parentBoneName" : "l_lfoot"
+  }, {
+    "boneIndex" : 17,
+    "name" : "l_rfoot",
+    "length" : 5.2957892,
+    "rsdBaseFilenames" : [ "ARAF" ],
+    "parentBoneName" : "l_tibia"
+  }, {
+    "boneIndex" : 18,
+    "name" : "lf_rnail",
+    "length" : 9.102176,
+    "rsdBaseFilenames" : [ "ARBB" ],
+    "parentBoneName" : "l_rfoot"
+  }, {
+    "boneIndex" : 19,
+    "name" : "rcl",
+    "length" : 7.3982153,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 20,
+    "name" : "r_momo",
+    "length" : 7.100947,
+    "rsdBaseFilenames" : [ "ARBD" ],
+    "parentBoneName" : "rcl"
+  }, {
+    "boneIndex" : 21,
+    "name" : "r_femur",
+    "length" : 5.1980143,
+    "rsdBaseFilenames" : [ "ARBF" ],
+    "parentBoneName" : "r_momo"
+  }, {
+    "boneIndex" : 22,
+    "name" : "r_tibia",
+    "length" : 9.691789,
+    "rsdBaseFilenames" : [ "ARCB" ],
+    "parentBoneName" : "r_femur"
+  }, {
+    "boneIndex" : 23,
+    "name" : "rb_nail",
+    "length" : 11.424666,
+    "rsdBaseFilenames" : [ "ARCD" ],
+    "parentBoneName" : "r_tibia"
+  }, {
+    "boneIndex" : 24,
+    "name" : "r_lfoot",
+    "length" : 5.3058147,
+    "rsdBaseFilenames" : [ "ARCF" ],
+    "parentBoneName" : "r_tibia"
+  }, {
+    "boneIndex" : 25,
+    "name" : "rf_lnail",
+    "length" : 9.102176,
+    "rsdBaseFilenames" : [ "ARDB" ],
+    "parentBoneName" : "r_lfoot"
+  }, {
+    "boneIndex" : 26,
+    "name" : "r_rfoot",
+    "length" : 5.341123,
+    "rsdBaseFilenames" : [ "ARDD" ],
+    "parentBoneName" : "r_tibia"
+  }, {
+    "boneIndex" : 27,
+    "name" : "rf_rnail",
+    "length" : 8.941847,
+    "rsdBaseFilenames" : [ "ARDF" ],
+    "parentBoneName" : "r_rfoot"
+  } ]
+}

@@ -1,0 +1,178 @@
+{
+  "name" : "chair_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "hip",
+    "length" : 1.7457236,
+    "rsdBaseFilenames" : [ "HTJF" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "chest",
+    "length" : 4.35991,
+    "rsdBaseFilenames" : [ "HUAB" ],
+    "parentBoneName" : "hip"
+  }, {
+    "boneIndex" : 2,
+    "name" : "head",
+    "length" : 6.8333898,
+    "rsdBaseFilenames" : [ "HUAD" ],
+    "parentBoneName" : "chest"
+  }, {
+    "boneIndex" : 3,
+    "name" : "l_chest",
+    "length" : 4.1348233,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "hip"
+  }, {
+    "boneIndex" : 4,
+    "name" : "l_collar",
+    "length" : 2.30646,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "l_chest"
+  }, {
+    "boneIndex" : 5,
+    "name" : "l_uparm",
+    "length" : 2.38332,
+    "rsdBaseFilenames" : [ "HUBC" ],
+    "parentBoneName" : "l_collar"
+  }, {
+    "boneIndex" : 6,
+    "name" : "l_foarm",
+    "length" : 4.606489,
+    "rsdBaseFilenames" : [ "HUBE" ],
+    "parentBoneName" : "l_uparm"
+  }, {
+    "boneIndex" : 7,
+    "name" : "l_hand",
+    "length" : 2.5993977,
+    "rsdBaseFilenames" : [ "HUCA" ],
+    "parentBoneName" : "l_foarm"
+  }, {
+    "boneIndex" : 8,
+    "name" : "r_chest",
+    "length" : 4.1348233,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "hip"
+  }, {
+    "boneIndex" : 9,
+    "name" : "r_collar",
+    "length" : 2.30646,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "r_chest"
+  }, {
+    "boneIndex" : 10,
+    "name" : "r_uparm",
+    "length" : 2.3833208,
+    "rsdBaseFilenames" : [ "HUCC" ],
+    "parentBoneName" : "r_collar"
+  }, {
+    "boneIndex" : 11,
+    "name" : "r_foarm",
+    "length" : 4.606491,
+    "rsdBaseFilenames" : [ "HUCE" ],
+    "parentBoneName" : "r_uparm"
+  }, {
+    "boneIndex" : 12,
+    "name" : "r_hand",
+    "length" : 2.599397,
+    "rsdBaseFilenames" : [ "HUDA" ],
+    "parentBoneName" : "r_foarm"
+  }, {
+    "boneIndex" : 13,
+    "name" : "l_hip",
+    "length" : 1.961564,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 14,
+    "name" : "l_femur",
+    "length" : 5.830908,
+    "rsdBaseFilenames" : [ "HUDC" ],
+    "parentBoneName" : "l_hip"
+  }, {
+    "boneIndex" : 15,
+    "name" : "l_tibia",
+    "length" : 6.549399,
+    "rsdBaseFilenames" : [ "HUDE" ],
+    "parentBoneName" : "l_femur"
+  }, {
+    "boneIndex" : 16,
+    "name" : "non10",
+    "length" : 3.2528818,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 17,
+    "name" : "non11",
+    "length" : 2.0,
+    "rsdBaseFilenames" : [ "HUEA", "HUEC" ],
+    "parentBoneName" : "non10"
+  }, {
+    "boneIndex" : 18,
+    "name" : "non12",
+    "length" : 9.953612,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "non11"
+  }, {
+    "boneIndex" : 19,
+    "name" : "l_asi",
+    "length" : 4.188322,
+    "rsdBaseFilenames" : [ "HUEE" ],
+    "parentBoneName" : "non12"
+  }, {
+    "boneIndex" : 20,
+    "name" : "l_taya",
+    "length" : 1.2262015,
+    "rsdBaseFilenames" : [ "HUFA" ],
+    "parentBoneName" : "l_asi"
+  }, {
+    "boneIndex" : 21,
+    "name" : "non13",
+    "length" : 9.953612,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "non11"
+  }, {
+    "boneIndex" : 22,
+    "name" : "r_asi",
+    "length" : 4.188322,
+    "rsdBaseFilenames" : [ "HUFC" ],
+    "parentBoneName" : "non13"
+  }, {
+    "boneIndex" : 23,
+    "name" : "r_taya",
+    "length" : 1.2262009,
+    "rsdBaseFilenames" : [ "HUFE" ],
+    "parentBoneName" : "r_asi"
+  }, {
+    "boneIndex" : 24,
+    "name" : "taia_m",
+    "length" : 8.69142,
+    "rsdBaseFilenames" : [ "HUGA", "HUGC" ],
+    "parentBoneName" : "non11"
+  }, {
+    "boneIndex" : 25,
+    "name" : "r_hip",
+    "length" : 1.961564,
+    "rsdBaseFilenames" : [ ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 26,
+    "name" : "r_femur",
+    "length" : 5.830907,
+    "rsdBaseFilenames" : [ "HUGE" ],
+    "parentBoneName" : "r_hip"
+  }, {
+    "boneIndex" : 27,
+    "name" : "r_tibia",
+    "length" : 6.5493994,
+    "rsdBaseFilenames" : [ "HUHA" ],
+    "parentBoneName" : "r_femur"
+  }, {
+    "boneIndex" : 28,
+    "name" : "r_foot",
+    "length" : 6.905876,
+    "rsdBaseFilenames" : [ "HUHC" ],
+    "parentBoneName" : "r_tibia"
+  } ]
+}

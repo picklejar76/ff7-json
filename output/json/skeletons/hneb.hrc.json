@@ -1,0 +1,82 @@
+{
+  "name" : "bero_sk",
+  "bones" : [ {
+    "boneIndex" : 0,
+    "name" : "bone_1",
+    "length" : 23.098665,
+    "rsdBaseFilenames" : [ "HNEC" ],
+    "parentBoneName" : "root"
+  }, {
+    "boneIndex" : 1,
+    "name" : "bone_2",
+    "length" : 20.917856,
+    "rsdBaseFilenames" : [ "HNEE" ],
+    "parentBoneName" : "bone_1"
+  }, {
+    "boneIndex" : 2,
+    "name" : "bone_3",
+    "length" : 17.679382,
+    "rsdBaseFilenames" : [ "HNFA" ],
+    "parentBoneName" : "bone_2"
+  }, {
+    "boneIndex" : 3,
+    "name" : "bone_4",
+    "length" : 15.275753,
+    "rsdBaseFilenames" : [ "HNFC" ],
+    "parentBoneName" : "bone_3"
+  }, {
+    "boneIndex" : 4,
+    "name" : "bone_5",
+    "length" : 14.424004,
+    "rsdBaseFilenames" : [ "HNFE" ],
+    "parentBoneName" : "bone_4"
+  }, {
+    "boneIndex" : 5,
+    "name" : "bone_6",
+    "length" : 12.981735,
+    "rsdBaseFilenames" : [ "HNGA" ],
+    "parentBoneName" : "bone_5"
+  }, {
+    "boneIndex" : 6,
+    "name" : "bone_7",
+    "length" : 12.672615,
+    "rsdBaseFilenames" : [ "HNGC" ],
+    "parentBoneName" : "bone_6"
+  }, {
+    "boneIndex" : 7,
+    "name" : "bone_8",
+    "length" : 13.00959,
+    "rsdBaseFilenames" : [ "HNGE" ],
+    "parentBoneName" : "bone_7"
+  }, {
+    "boneIndex" : 8,
+    "name" : "bone_9",
+    "length" : 12.984329,
+    "rsdBaseFilenames" : [ "HNHA" ],
+    "parentBoneName" : "bone_8"
+  }, {
+    "boneIndex" : 9,
+    "name" : "bone_10",
+    "length" : 11.132614,
+    "rsdBaseFilenames" : [ "HNHC" ],
+    "parentBoneName" : "bone_9"
+  }, {
+    "boneIndex" : 10,
+    "name" : "bone_11",
+    "length" : 12.187256,
+    "rsdBaseFilenames" : [ "HNHE" ],
+    "parentBoneName" : "bone_10"
+  }, {
+    "boneIndex" : 11,
+    "name" : "bone_12",
+    "length" : 9.726318,
+    "rsdBaseFilenames" : [ "HNIA" ],
+    "parentBoneName" : "bone_11"
+  }, {
+    "boneIndex" : 12,
+    "name" : "bone_13",
+    "length" : 8.606461,
+    "rsdBaseFilenames" : [ "HNIC" ],
+    "parentBoneName" : "bone_12"
+  } ]
+}
